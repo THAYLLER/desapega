@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osc-mobile 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-22 18:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: carlos <carlos@osclass.org>\n"
+"Language-Team: OSClass <info@osclass.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes\n"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/404.php:24
+msgid "Page not found"
+msgstr "Página não encontrada. Erro 404"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Você se inscreveu com sucesso para receber alertas"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_alert-form.php:7
+msgid "Invalid email address"
+msgstr "E-mail inválido"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr "Ocorreu um problema com este alerta :("
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_alert-form.php:39
+msgid "Subscribe to this search"
+msgstr "Inscrever-se para esta busca"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_alert-form.php:55
+msgid "Subscribe now"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:39
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:363
+msgid "Publish an item"
+msgstr "Publicar anúncio grátis"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:51
+msgid "General Information"
+msgstr "Informações Gerais"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:53
+msgid "Category"
+msgstr "Categoria"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:54
+msgid "Select a category"
+msgstr "Selecione a categoria"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:61
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:52
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:52
+msgid "Price"
+msgstr "Preço"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:71
+msgid "Photos"
+msgstr "Fotos"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:78
+msgid "Add new photo"
+msgstr "Adicionar mais fotos"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:85
+msgid "Item Location"
+msgstr "Localização"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:87
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:71
+msgid "Country"
+msgstr "País"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:91
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:75
+msgid "Region"
+msgstr "Estado"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:92
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:147
+msgid "Select a region..."
+msgstr "Selecione o estado"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:96
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:79
+msgid "City"
+msgstr "Cidade"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:97
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:160
+msgid "Select a city..."
+msgstr "Selecione uma cidade..."
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:101
+msgid "City Area"
+msgstr "Bairro"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:105
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:87
+msgid "Address"
+msgstr "CEP"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:114
+msgid "Seller's information"
+msgstr "Informações do Vendedor"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:116
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:48
+msgid "Name"
+msgstr "Nome"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:120
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:52
+msgid "E-mail"
+msgstr "E-mail"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:124
+msgid "Show e-mail on the item page"
+msgstr "Exibir e-mail na página do anúncio"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_item-edit.php:138
+msgid "Publicar anúncio grátis"
+msgstr "Publicar anúncio grátis"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:34
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_email.php:35
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_password.php:35
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:35
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:35
+msgid "User account manager"
+msgstr "Conta de usuário"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:39
+msgid "Your alerts"
+msgstr "Seus alertas"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:41
+msgid "You do not have any alerts yet"
+msgstr "Você não se inscreveu em nenhum alerta..."
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:45
+msgid "Alert"
+msgstr "Alerta"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:45
+msgid "Esta ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:45
+msgid "Delete this alert"
+msgstr "Deletar alerta"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-alerts.php:51
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:51
+msgid "Publication date"
+msgstr "Publicado em:"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_email.php:41
+msgid "Mudar o seu e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_email.php:47
+msgid "e-mail atual"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_email.php:51
+msgid "New e-mail"
+msgstr "Novo e-mail"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_email.php:55
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_password.php:59
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:95
+msgid "Update"
+msgstr "atualização"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_password.php:41
+msgid "Change your password"
+msgstr "Redefinir senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_password.php:47
+msgid "Current password"
+msgstr "Senha atual"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_password.php:51
+msgid "New password"
+msgstr "Nova senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-change_password.php:55
+msgid "Repeat new password"
+msgstr "Digite sua senha novamente"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:41
+msgid "Your items"
+msgstr "Seus anúncios"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:41
+msgid "Post a new item"
+msgstr "Publicar anúncio novo"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:43
+msgid "You don't have any items yet"
+msgstr "Você ainda não publicou nenhum anúncio  ainda."
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:55
+msgid "Edit"
+msgstr "Editar"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:57
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Esta ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:57
+msgid "Delete"
+msgstr "Deletar"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-items.php:60
+msgid "Activate"
+msgstr "Ativo"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:41
+msgid "Update your profile"
+msgstr "Editar seu perfil"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:55
+msgid "Modify e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:55
+msgid "Modify password"
+msgstr "Trocar senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:59
+msgid "User type"
+msgstr "Tipo de conta"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:63
+msgid "Cell phone"
+msgstr "Celular"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:67
+msgid "Phone"
+msgstr "Telefone"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:83
+msgid "City area"
+msgstr "Bairro"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/_user-profile.php:91
+msgid "Website"
+msgstr "Site"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:34
+msgid "Contact us"
+msgstr "Entre em contato"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:45
+msgid "Subject"
+msgstr "Assunto"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:45
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:47
+msgid "optional"
+msgstr "Opcional"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:46
+msgid "Message"
+msgstr "Mensagem"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:47
+msgid "Your name"
+msgstr "Seu Nome"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:48
+msgid "Your e-mail address"
+msgstr "Seu e-mail"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/contact.php:50
+msgid "Send"
+msgstr "Enviar"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/footer.php:25
+msgid "Switch to Desktop version"
+msgstr "Versão Desktop"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/footer.php:27
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:450
+msgid "Contact"
+msgstr "Fale conosco"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/footer.php:32
+msgid "This website is proudly using the <a title=\"OSClass web\" data-role=\"none\" class=\"ui-link\" href=\"http://osclass.org/\">open source classifieds</a> software <strong>OSClass</strong>"
+msgstr "Desenvolvido por <a title=\"Dnr WebSolutions\" data-role=\"none\" class=\"ui-link\" href=\"http://dnrwebsolutions.url.ph/\"><strong>Dnr WebSolutions</a></strong>"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:36
+msgid "Title"
+msgstr "Título"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:46
+msgid "Description"
+msgstr "Descrição"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:192
+msgid "This action can\\'t be undone. Are you sure you want to continue?"
+msgstr "Esta ação pode não ser desfeita. Tem certeza de que deseja continuar?"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:292
+msgid "Check"
+msgstr "Verifique"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:293
+msgid "Free"
+msgstr "Grátis"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:306
+#, php-format
+msgid "%s Previous"
+msgstr "%s anterior"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:307
+#, php-format
+msgid "Next %s"
+msgstr "Próximo %s"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:364
+msgid "Edit your item"
+msgstr "Editar anúncio"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:365
+msgid "Send to a friend"
+msgstr "Compartilhar"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:366
+msgid "Contact seller"
+msgstr "Entre em contato com o vendedor"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:383
+msgid "page"
+msgstr "Página"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:393
+msgid "Show all items"
+msgstr "Exibir todos anúncios"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:423
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/inc.search.php:67
+msgid "Search"
+msgstr "Pesquisar"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:430
+msgid "Recover your password"
+msgstr "Recupere sua senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:431
+msgid "Login"
+msgstr "Login"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:435
+msgid "Create a new account"
+msgstr "Registrar-se"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:439
+msgid "Dashboard"
+msgstr "Minha conta"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:440
+msgid "Manage my items"
+msgstr "Gerenciar meus anúncios"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:441
+msgid "Manage my alerts"
+msgstr "Gerenciar meus alertas"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:442
+msgid "Update my profile"
+msgstr "Atualizar meu perfil"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:443
+msgid "Change my email"
+msgstr "Trocar meu e-mail"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:444
+msgid "Change my password"
+msgstr "Alterar minha senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/functions.php:445
+msgid "Recover my password"
+msgstr "Recuperar minha senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/header.php:3
+msgid "Logout"
+msgstr "Sair"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/header.php:5
+msgid "Log in"
+msgstr "Login"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/inc.search.php:24
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/inc.search.php:61
+msgid "ie. PHP Programmer"
+msgstr "Pesquisar por equipamentos, peixes, aquários etc..."
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item-contact.php:44
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:213
+msgid "To (seller)"
+msgstr "Para"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item-contact.php:45
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item-send-friend.php:43
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:214
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:275
+msgid "Item"
+msgstr "Anúncio"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item-contact.php:53
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:222
+msgid "Phone number"
+msgstr "Telefone"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item-contact.php:56
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:225
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item-send-friend.php:51
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:283
+msgid "Your friend's name"
+msgstr "Nome do seu amigo"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item-send-friend.php:52
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:284
+msgid "Your friend's e-mail address"
+msgstr "E-mail do seu amigo"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:81
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:186
+msgid "Marcar como"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:93
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:253
+msgid "Comment"
+msgstr "Comentário"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:123
+msgid "Share"
+msgstr "Compartilhar"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:143
+msgid "Publicado em"
+msgstr "Publicado em"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:144
+msgid "Editado em"
+msgstr "Editado em"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:152
+msgid "Comentários"
+msgstr "Comentários"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:158
+msgid "por"
+msgstr "por"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:162
+msgid "Deletar seu comentário"
+msgstr "Deletar seu comentário"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:191
+msgid "spam"
+msgstr "spam"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:192
+msgid "Categoria Errada"
+msgstr "Categoria errada"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:193
+msgid "duplicado"
+msgstr "duplicado"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:194
+msgid "expirado"
+msgstr "expirado"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:195
+msgid "ofensivo"
+msgstr "ofensivo"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:235
+msgid "Leave your comment"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/item.php:250
+msgid "Seu e-mail"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/main.php:82
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login_1.php:45
+msgid "Registrar-se"
+msgstr ""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/search.php:77
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Não há resultados correspondentes \"%s\""
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/search_list.php:39
+msgid "Sponsored ad"
+msgstr "Anúncio Patrocinado"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-forgot_password.php:45
+msgid "New pasword"
+msgstr "Nova senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-forgot_password.php:49
+msgid "Repeat new pasword"
+msgstr "Digite novamente"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-forgot_password.php:52
+msgid "Change password"
+msgstr "alterar a senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login.php:40
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login_1.php:45
+msgid "Forgot password?"
+msgstr "Perdeu sua senha?"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login.php:49
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login_1.php:41
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-register.php:42
+msgid "Password"
+msgstr "Senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login.php:53
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login_1.php:42
+msgid "Remember me"
+msgstr "Lembrar-me"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-login_1.php:35
+msgid "Access to your account"
+msgstr "Login"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-recover.php:44
+msgid "Send me a new password"
+msgstr "Enviar nova senha"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-register.php:31
+msgid "Registrar-se"
+msgstr "Registrar-se"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-register.php:43
+msgid "Digite sua senha novamente"
+msgstr "Digite sua senha novamente"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-register.php:45
+msgid "A sua senha não combinam"
+msgstr "A suas senhas não combinam"
+
+#: /Users/ssuareza/projects/osclass-plugins/osc_mobile/themes/mobile/user-register.php:50
+msgid "Criar"
+msgstr "Criar"

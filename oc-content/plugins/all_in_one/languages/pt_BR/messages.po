@@ -1,0 +1,1764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All in One SEO Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-06 11:52+0100\n"
+"PO-Revision-Date: 2016-04-04 12:47-0300\n"
+"Last-Translator: Miso <miso546@azet.sk>\n"
+"Language-Team: MB Themes <michal.brezak@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:319 index.php:358 admin/listings.php:376 admin/listings.php:504
+msgid "City"
+msgstr "Cidade"
+
+#: index.php:324 index.php:363 admin/listings.php:394 admin/listings.php:522
+msgid "Region"
+msgstr "Estado"
+
+#: index.php:329 index.php:368 admin/listings.php:412 admin/listings.php:540
+msgid "Country"
+msgstr "País"
+
+#: index.php:334 index.php:373
+msgid "Site Title"
+msgstr "Título do site"
+
+#: index.php:339 index.php:377 admin/listings.php:430 admin/listings.php:576
+msgid "Category"
+msgstr "Categoria"
+
+#: index.php:343 admin/listings.php:466
+msgid "Item Title"
+msgstr "Titulo do Item"
+
+#: index.php:349 index.php:386
+msgid "Tags order"
+msgstr "PALAVRAS CHAVES"
+
+#: index.php:380 admin/listings.php:592
+msgid "Search Pattern"
+msgstr "Padrão da procura"
+
+#: index.php:525
+msgid "Publish a listing"
+msgstr "Publicar um anúncio"
+
+#: index.php:526
+msgid "Edit your listing"
+msgstr "Editar seu anúncio"
+
+#: index.php:527
+msgid "Send to a friend"
+msgstr "Enviar a un amigo"
+
+#: index.php:528
+msgid "Contact seller"
+msgstr "Contatar vendedor"
+
+#: index.php:544
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: index.php:557
+msgid "page"
+msgstr "página"
+
+#: index.php:561
+msgid "Search result"
+msgstr "Resultado da Pesquisa"
+
+#: index.php:569
+msgid "Recover your password"
+msgstr "Recuperar seu senha"
+
+#: index.php:570
+msgid "Login into your account"
+msgstr "Faca login em sua conta"
+
+#: index.php:576
+msgid "Create a new account"
+msgstr "﻿Criar uma nova conta"
+
+#: index.php:582
+msgid "Dashboard"
+msgstr "Painel de Controle"
+
+#: index.php:583
+msgid "Manage my listings"
+msgstr "Gerenciar meus anúncios"
+
+#: index.php:584
+msgid "Manage my alerts"
+msgstr "Gerenciar meus alertas"
+
+#: index.php:585
+msgid "Update my profile"
+msgstr "Atualizar Perfil"
+
+#: index.php:586
+msgid "Public profile of"
+msgstr "Perfil público"
+
+#: index.php:587
+msgid "Change my email"
+msgstr "Alterar e-mail"
+
+#: index.php:588
+msgid "Change my password"
+msgstr "Alterar minha senha"
+
+#: index.php:589
+msgid "Recover my password"
+msgstr "Esqueci minha senha"
+
+#: index.php:595
+msgid "Contact"
+msgstr "Contato"
+
+#: index.php:787
+msgid "All in One SEO Plugin"
+msgstr "All in One SEO Pack "
+
+#: index.php:788 index.php:888
+msgid "listings"
+msgstr "Anuncios"
+
+#: index.php:789 index.php:889
+msgid "categories"
+msgstr "categorias"
+
+#: index.php:790 index.php:890
+msgid "locations"
+msgstr "Localização"
+
+#: index.php:791 index.php:891
+msgid "static pages"
+msgstr "Páginas Estáticas"
+
+#: index.php:792 index.php:892
+msgid "back links"
+msgstr "back links"
+
+#: index.php:793 index.php:893
+msgid "sitemap"
+msgstr "mapa do site"
+
+#: index.php:794 index.php:894
+msgid "htaccess"
+msgstr ".htaccess"
+
+#: index.php:795 index.php:895
+msgid "robots.txt"
+msgstr "Robots. txt:"
+
+#: index.php:796 index.php:896
+msgid "stats"
+msgstr "Estatísticas"
+
+#: item_edit.php:22
+msgid "Meta Options (advanced)"
+msgstr "Opções de meta (avançado)"
+
+#: item_edit.php:27 admin/links.php:244
+msgid "Title"
+msgstr "Título"
+
+#: item_edit.php:31
+msgid "Maximum 100 characters"
+msgstr "Máximo de 100 caracteres"
+
+#: item_edit.php:34
+msgid "Description"
+msgstr "Descripción"
+
+#: item_edit.php:38
+msgid "Maximum 500 characters"
+msgstr "Máximo de 500 caracteres"
+
+#: item_edit.php:41 admin/listings.php:338
+msgid "Keywords"
+msgstr "Palavras-chave"
+
+#: item_edit.php:45
+msgid "Separate with comma"
+msgstr "Separado por vírgula"
+
+#: admin/categories.php:6
+msgid "Meta settings for categories saved"
+msgstr "Configurações de meta para categorias guardada"
+
+#: admin/categories.php:20
+msgid "Category Meta Settings"
+msgstr "Configurações de Categoria"
+
+#: admin/categories.php:21
+msgid "Edit Categories"
+msgstr "Editar Categorias"
+
+#: admin/categories.php:22 admin/categories.php:23 admin/generate.php:52
+#: admin/generate.php:53 admin/links.php:202 admin/links.php:224
+#: admin/links.php:297 admin/links.php:298 admin/links.php:299
+#: admin/links.php:300 admin/links.php:301 admin/listings.php:341
+#: admin/locations.php:22 admin/pages.php:42 admin/pages.php:43
+msgid "Note"
+msgstr "Nota"
+
+#: admin/categories.php:22
+msgid ""
+"To edit meta details for categories, click on \"unlock\" link on right side"
+msgstr ""
+"Para editar os detalhes de meta de categorias, clique no link \"desbloquear"
+"\" do lado direito"
+
+#: admin/categories.php:23
+msgid "Do not edit more than 50 categories at once"
+msgstr "Não edite mais de 50 categorias de uma só vez"
+
+#: admin/categories.php:29 admin/links.php:243 admin/links.php:332
+#: admin/locations.php:28 admin/pages.php:49
+msgid "ID"
+msgstr "ID"
+
+#: admin/categories.php:30
+msgid "Category Name"
+msgstr "Nome Categoria"
+
+#: admin/categories.php:31 admin/locations.php:30 admin/pages.php:51
+msgid "Meta Title"
+msgstr "Título Meta"
+
+#: admin/categories.php:32 admin/locations.php:31 admin/pages.php:52
+msgid "Meta Description"
+msgstr "Metadados de Descrição"
+
+#: admin/categories.php:33 admin/locations.php:32 admin/pages.php:53
+msgid "Meta Keywords"
+msgstr "Palavras para Metadados"
+
+#: admin/categories.php:45
+msgid "Update Categories"
+msgstr "Atualização de categorias"
+
+#: admin/categories.php:51
+msgid ""
+"If you do not enter Meta details for category, default osclass settings are "
+"used."
+msgstr ""
+"Se você não inserir dados de Meta para categoria, osclass predefinições são "
+"usadas."
+
+#: admin/categories.php:52
+msgid "Do not enter more than 5 keywords per category, it would be useless"
+msgstr "Não entra mais de 5 palavras-chave por categoria, seria inútil"
+
+#: admin/categories.php:53 admin/locations.php:49
+msgid ""
+"Meta description should be <strong>150 - 160 characters</strong> long, "
+"otherwise not whole description will be shown."
+msgstr ""
+"Descrição de meta deve ser <strong>150-160 caracteres</strong> , caso "
+"contrário não toda descrição será mostrada."
+
+#: admin/categories.php:54 admin/locations.php:50
+msgid ""
+"Meta title should be <strong>50-60 characters</strong> long, otherwise not "
+"whole title will be shown."
+msgstr ""
+"Título de meta deve ser <strong>50-60 caracteres</strong> , caso contrário "
+"não todo título será exibido."
+
+#: admin/categories.php:55
+msgid ""
+"Meta description & title should contain some keyword for your category, so "
+"if you have category Cars, it would be good to have there word Car, Auto "
+"etc. This will secure that when user search this word, your site will be "
+"shown with your Meta Title & Description you entered here. Otherwise, Google "
+"- or other search engines - will generate own."
+msgstr ""
+"Descrição de meta & título devem conter alguma palavra-chave para sua "
+"categoria, então se você tem a categoria carros, seria bom ter lá a palavra "
+"carro, Auto etc. Isto assegurará que quando o usuário Pesquisar essa "
+"palavra, o seu site será mostrado com seu título e descrição Meta você "
+"entrou aqui. Caso contrário, irão gerar o Google - ou outros motores de "
+"busca - próprio."
+
+#: admin/categories.php:56
+msgid ""
+"When you are on listing page and you show category in title, category name "
+"<span class=\"underline\">will not</span> be replaced by category meta title "
+"placed here"
+msgstr ""
+"Quando você está na página de listagem e você mostrar categoria no título, "
+"categoria nome <span class=\"underline\">não será</span> substituído por "
+"categoria meta título colocado aqui"
+
+#: admin/categories.php:66 admin/generate.php:96 admin/htaccess.php:124
+#: admin/links.php:402 admin/listings.php:711 admin/locations.php:62
+#: admin/pages.php:88 admin/robots.php:103 admin/stats.php:154
+msgid "Version"
+msgstr "Versão"
+
+#: admin/categories.php:66 admin/generate.php:96 admin/htaccess.php:124
+#: admin/links.php:402 admin/listings.php:711 admin/locations.php:62
+#: admin/pages.php:88 admin/robots.php:103 admin/stats.php:154
+msgid "Author"
+msgstr "Autor"
+
+#: admin/functions.php:34 admin/functions.php:85 admin/functions.php:129
+#: admin/functions.php:166
+msgid "Unlock"
+msgstr "Desbloquear"
+
+#: admin/generate.php:33
+msgid "Sitemap.xml generated correctly in"
+msgstr "Sitemap. XML gerado corretamente em"
+
+#: admin/generate.php:33 admin/generate.php:91
+msgid "seconds"
+msgstr "Segundos"
+
+#: admin/generate.php:50
+msgid "Sitemap Generator"
+msgstr "Gerador de Mapa XML"
+
+#: admin/generate.php:51
+msgid "View sitemap.xml file"
+msgstr "Exibir arquivo de sitemap. xml"
+
+#: admin/generate.php:52
+msgid ""
+"When sitemap is successfully generated, it is automatically send to Google, "
+"Bing and Yahoo."
+msgstr ""
+"Quando sitemap é gerado com sucesso, é enviar automaticamente para o Google, "
+"Bing e Yahoo."
+
+#: admin/generate.php:53
+msgid "Check your cron job settings"
+msgstr "Verifique suas configurações de trabalho cron"
+
+#: admin/generate.php:53
+msgid "if you want to generate sitemap automatically"
+msgstr "Se você deseja gerar sitemap automaticamente"
+
+#: admin/generate.php:57
+msgid "Frequency of sitemap generation"
+msgstr "Selecione a freqüência de geração de sitemap"
+
+#: admin/generate.php:59
+msgid "Weekly"
+msgstr "Semanal"
+
+#: admin/generate.php:60
+msgid "Daily"
+msgstr "Diário"
+
+#: admin/generate.php:61
+msgid "Hourly"
+msgstr "A cada hora"
+
+#: admin/generate.php:62
+msgid "No automatical refresh"
+msgstr "Nenhuma atualização automática"
+
+#: admin/generate.php:67
+msgid "Include listings into sitemap"
+msgstr "Incluem as listagens em sitemap"
+
+#: admin/generate.php:69 admin/links.php:230
+msgid "Yes"
+msgstr "Sim"
+
+#: admin/generate.php:70 admin/links.php:231
+msgid "No"
+msgstr "Não"
+
+#: admin/generate.php:75
+msgid "Max count of items in sitemap"
+msgstr "Contagem de Max de itens no mapa do site"
+
+#: admin/generate.php:81
+msgid "Save & Generate Sitemap"
+msgstr "Salvar e gerar Sitemap"
+
+#: admin/generate.php:87
+msgid ""
+"When frequency of refresh set, sitemap will be regulary generated using "
+"osclass cron functions, therefore make sure you enabled build-in cron for "
+"your osclass (Settings > General) <strong>OR</strong> you have set external "
+"cron job that manage cron!"
+msgstr ""
+"Quando a freqüência de atualização conjunto, sitemap será regularmente "
+"gerado usando funções de cron osclass, portanto certifique-se que você "
+"permitiu construir-no cron para seu osclass (configurações > geral) "
+"<strong>ou</strong> você definiu externo do cron que gerenciam o cron!"
+
+#: admin/generate.php:88
+msgid "When allowed, also listings will be included in sitemap."
+msgstr "Quando permitido, também listas serão incluídas no sitemap."
+
+#: admin/generate.php:89
+msgid ""
+"Too many listings included in sitemap can break sitemap generation (too much "
+"server resources - exhausting). There should not be more than 1000 listings "
+"included in sitemap."
+msgstr ""
+"Também muitos anúncios incluídos no sitemap podem quebrar a geração de "
+"sitemap (demais recursos do servidor - cansativo). Não deve haver mais de "
+"1000 anúncios incluídos no sitemap."
+
+#: admin/generate.php:90
+msgid ""
+"Maximum number of items that can be added to sitemap is 10 000, even if you "
+"enter higher number, just 10 000 listings will be included."
+msgstr ""
+"Número máximo de itens que podem ser adicionados ao mapa do site é 10 000 "
+"mesmo se você inserir o maior número, apenas 10 000 as listas serão "
+"incluídas."
+
+#: admin/generate.php:91
+msgid "Maximum execution time on your server is"
+msgstr "É o tempo máximo de execução em seu servidor"
+
+#: admin/generate.php:91
+msgid ""
+"If generation of sitemap takes almost as long as is execution time, contact "
+"your hosting provider to increase Maximum execution time on your server, or "
+"lower number of items included to sitemap"
+msgstr ""
+"Se a geração de sitemap leva quase o tempo é o tempo de execução, em contato "
+"com seu provedor de hospedagem para aumentar o tempo de execução máximo em "
+"seu servidor, ou um número menor de itens inclusos para sitemap"
+
+#: admin/htaccess.php:50
+msgid "Backup file .htaccess_backup file was successfully created"
+msgstr "Arquivo de .htaccess_backup do arquivo de backup foi criado com êxito"
+
+#: admin/htaccess.php:61
+msgid ".htaccess file was successfully updated"
+msgstr "htaccess arquivo foi atualizado com sucesso"
+
+#: admin/htaccess.php:64
+msgid ""
+"It is impossible to write to .htaccess file, please change CHMOD settings on "
+"this file."
+msgstr ""
+"É impossível escrever para um arquivo. htaccess, por favor, altere "
+"configurações CHMOD este arquivo."
+
+#: admin/htaccess.php:78
+msgid ""
+"You did not activated Friendly URLs. Activate it first or you will not be "
+"able to save settings."
+msgstr ""
+"Você fez URLs amigáveis não registrados. Ativá-lo primeiro, ou você não será "
+"capaz de salvar as configurações."
+
+#: admin/htaccess.php:78
+msgid "Activate Permalinks (Friendly URLs) >>"
+msgstr "Ativar o Permalinks (URLs amigáveis) >>"
+
+#: admin/htaccess.php:88
+msgid ".htaccess file settings"
+msgstr "configurações do arquivo. htaccess"
+
+#: admin/htaccess.php:90
+msgid "Choose .htaccess you want to use"
+msgstr "Escolha você quer usar o. htaccess"
+
+#: admin/htaccess.php:92 admin/robots.php:72
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/htaccess.php:93 admin/robots.php:73
+msgid "Original"
+msgstr "Original"
+
+#: admin/htaccess.php:98
+msgid ".htaccess file content"
+msgstr "conteúdo do arquivo. htaccess"
+
+#: admin/htaccess.php:104
+msgid "Update .htaccess file"
+msgstr "Arquivo de atualização de. htaccess"
+
+#: admin/htaccess.php:110
+msgid ""
+"You can use .htaccess generated by this form (custom) or default .htaccess "
+"(original). When original choosen will be choosen, copy from backup file "
+"will be used to restore original file"
+msgstr ""
+"Você pode usar o htaccess gerado por este formulário (personalizado) ou "
+"padrão htaccess (original). Quando escolhido original serão escolhidos, "
+"cópia de arquivo de backup será usada para restaurar o arquivo original"
+
+#: admin/htaccess.php:111
+msgid ""
+"When you create .htaccess file using this form, original one will be back up "
+"in same folder with name <strong>.htaccess_backup</strong>. This file will "
+"be used just in case it does not exist. If it exists, it will not be "
+"overwritten."
+msgstr ""
+"Quando você criar um arquivo. htaccess usando este formulário, um original "
+"será back-up na mesma pasta com o nome <strong>.htaccess_backup</strong>. "
+"Esse arquivo será usado apenas no caso de não existir. Se ele existe, ele "
+"não será sobrescrito."
+
+#: admin/htaccess.php:113
+msgid ""
+"Do not miss following pages that helps you to understand and correctly "
+"generate .htaccess file:"
+msgstr ""
+"Não perca a sequência de páginas que ajuda você a entender e gerar "
+"corretamente o arquivo. htaccess:"
+
+#: admin/htaccess.php:114
+msgid ".htaccess generator"
+msgstr "gerador. htaccess"
+
+#: admin/htaccess.php:115
+msgid ".htaccess documentation"
+msgstr "documentação do. htaccess"
+
+#: admin/htaccess.php:117
+msgid "Default .htaccess file generated by osclass has content:"
+msgstr "Arquivo. htaccess padrão gerado pelo osclass tem conteúdo:"
+
+#: admin/htaccess.php:118
+msgid ""
+"When you get <strong>500 Internal Server Error</strong> on your site, there "
+"was some problem in saving .htaccess file or your code is incorrect. In this "
+"case just replace content of file with default content listed above."
+msgstr ""
+"Quando você chegar a <strong>500 Internal Server Error</strong> no seu site, "
+"havia algum problema em salvar o arquivo. htaccess ou seu código está "
+"incorreto. Neste caso, basta substitua o conteúdo do arquivo com conteúdo "
+"padrão listado acima."
+
+#: admin/links.php:47 admin/links.php:58
+msgid "It is not possible to get content of website"
+msgstr "Não é possível obter o conteúdo do site"
+
+#: admin/links.php:51 admin/links.php:54
+msgid "Status of Reciprocal Link with ID"
+msgstr "Status do Link recíproco com ID"
+
+#: admin/links.php:51 admin/links.php:54
+msgid "was successfully updated"
+msgstr "arquivo robots.txt foi atualizado com sucesso"
+
+#: admin/links.php:74
+msgid "Error when updating backlink link"
+msgstr "Erro ao atualizar link backlink"
+
+#: admin/links.php:74
+msgid "Link title cannot be empty!"
+msgstr "Título não pode estar vazio"
+
+#: admin/links.php:76
+msgid "Error when updating  backlink"
+msgstr "Erro ao atualizar backlink"
+
+#: admin/links.php:76
+msgid "Link URL cannot be empty!"
+msgstr "Link URL não pode estar vazio!"
+
+#: admin/links.php:86
+msgid "Links updated"
+msgstr "Ligações atualizado"
+
+#: admin/links.php:97
+msgid "BackLink was successfully created"
+msgstr "BackLink foi criado com êxito"
+
+#: admin/links.php:99
+msgid "Error when creating backlink link"
+msgstr "Erro ao criar ligação backlink"
+
+#: admin/links.php:99
+msgid "Link title & URL cannot be empty!"
+msgstr "Link título e URL não pode estar vazio!"
+
+#: admin/links.php:111 admin/links.php:113
+msgid "Error when updating reciprocal link"
+msgstr "Erro ao atualizar ligação recíproca"
+
+#: admin/links.php:111
+msgid "Your referral URL cannot be empty!"
+msgstr "Seu URL de referência não pode estar vazio!"
+
+#: admin/links.php:113
+msgid "URL with your link cannot be empty!"
+msgstr "URL com o seu link não pode estar vazio!"
+
+#: admin/links.php:125
+msgid "Warning: Entered contact email in reciprocal link"
+msgstr "Aviso: Introduzido-mail de contato em ligação recíproca"
+
+#: admin/links.php:125
+msgid "is not in correct format!"
+msgstr "não está no formato correto!"
+
+#: admin/links.php:137
+msgid "Reciprocal Links updated"
+msgstr "Ligações recíprocas atualizado"
+
+#: admin/links.php:148
+msgid "Warning: Entered contact email is not in correct format!"
+msgstr "Aviso: Introduzido de e-mail não está no formato correto!"
+
+#: admin/links.php:162
+msgid "Reciprocal Link was successfully created"
+msgstr "Reciprocal Link foi criado com êxito"
+
+#: admin/links.php:164
+msgid "Error when creating reciprocal link"
+msgstr "Erro ao criar ligação recíproca"
+
+#: admin/links.php:164
+msgid "Your referral URL and URL with your link cannot be empty!"
+msgstr "Seu URL de referência e com o seu link URL não pode estar vazio!"
+
+#: admin/links.php:176
+msgid "Owner of website"
+msgstr "Proprietário do site"
+
+#: admin/links.php:176
+msgid "was successfully informed that backlink was not found"
+msgstr "foi informado de sucesso que backlink não foi encontrado"
+
+#: admin/links.php:178
+msgid "Error when sending email to reciprocal link"
+msgstr "Erro ao enviar e-mail para ligação recíproca"
+
+#: admin/links.php:178
+msgid "Contact email is not valid or is empty!"
+msgstr "E-mail não é válido ou está vazio!"
+
+#: admin/links.php:197
+msgid "Back links Management"
+msgstr "Gestão de ligações para trás"
+
+#: admin/links.php:199
+msgid "Add new link"
+msgstr "Adicionar Novo Link"
+
+#: admin/links.php:202
+msgid ""
+"Make sure you enter correct URL that contains http:// or https://, otherwise "
+"link will not work"
+msgstr ""
+"Certifique-se de que você entra URL correta que contém http: // ou "
+"https: //, caso contrário ligação não funcionará"
+
+#: admin/links.php:205
+msgid "Link Title"
+msgstr "Título do Link"
+
+#: admin/links.php:210 admin/links.php:245
+msgid "Link URL"
+msgstr "URL do Link"
+
+#: admin/links.php:215 admin/links.php:320
+msgid "Add link"
+msgstr "Adicionar link"
+
+#: admin/links.php:221
+msgid "Show links in footer"
+msgstr "Mostrar ligações no rodapé"
+
+#: admin/links.php:224
+msgid "You can show BackLinks wherever you want placing this code:"
+msgstr "Você pode mostrar BackLinks onde quiser colocar este código:"
+
+#: admin/links.php:228
+msgid "Auto-hook links to footer"
+msgstr "Ligações Auto-gancho para footer"
+
+#: admin/links.php:237
+msgid "Current footer links"
+msgstr "Links de rodapé atuais"
+
+#: admin/links.php:246
+msgid "Footer"
+msgstr "Rodapé"
+
+#: admin/links.php:247
+msgid "nofollow"
+msgstr "Nofollow"
+
+#: admin/links.php:248
+msgid "Generated link"
+msgstr "Link gerado"
+
+#: admin/links.php:262 admin/listings.php:379 admin/listings.php:397
+#: admin/listings.php:415 admin/listings.php:433 admin/listings.php:451
+#: admin/listings.php:507 admin/listings.php:525 admin/listings.php:543
+#: admin/listings.php:561
+msgid "Show"
+msgstr "Exibir"
+
+#: admin/links.php:266
+msgid "Add"
+msgstr "Adicionar"
+
+#: admin/links.php:269
+msgid "Are you sure you want to delete link"
+msgstr "Você tem certeza de que deseja excluir"
+
+#: admin/links.php:269 admin/links.php:365
+msgid "Delete"
+msgstr "Excluir"
+
+#: admin/links.php:276 admin/links.php:380 admin/listings.php:658
+msgid "Update"
+msgstr "Actualizar"
+
+#: admin/links.php:292
+msgid "Reciprocal links Management"
+msgstr "Gestão de ligações recíprocas"
+
+#: admin/links.php:294
+msgid "Add new reciprocal link"
+msgstr "Adicionar novo link recíproco"
+
+#: admin/links.php:297
+msgid "Slash (/) at the end of link will be removed from Your referral link"
+msgstr "Slash (/) no final do link será removido do seu link de referência"
+
+#: admin/links.php:298
+msgid "www will be removed from Your referral link"
+msgstr "www será removido do seu link de referência"
+
+#: admin/links.php:299
+msgid ""
+"Your (referral) URL is link address in backlink - usually URL to your site"
+msgstr ""
+"Seu (de referência) URL é o endereço de link em backlink - geralmente URL "
+"para o seu site"
+
+#: admin/links.php:300
+msgid ""
+"URL with your link is link to website, where was placed your backlink - "
+"usually some external site"
+msgstr ""
+"URL com o seu link é link para o site, onde foi colocado o seu backlink - "
+"geralmente algum site externo"
+
+#: admin/links.php:301
+msgid "Contact is email to owner of website where is placed your backlink"
+msgstr ""
+"O contato é e-mail para proprietário de site onde é colocado o seu backlink"
+
+#: admin/links.php:305 admin/links.php:333
+msgid "Your (referral) URL"
+msgstr "Seu URL (de referência)"
+
+#: admin/links.php:310
+msgid "URL with your link"
+msgstr "URL com o seu link"
+
+#: admin/links.php:315
+msgid "Contact to web owner"
+msgstr "Contactar proprietário para web"
+
+#: admin/links.php:326
+msgid "Current reciprocal links"
+msgstr "As ligações recíprocas actuais"
+
+#: admin/links.php:334
+msgid "URL where is placed your link"
+msgstr "URL onde é colocado o seu link"
+
+#: admin/links.php:335
+msgid "Owner email"
+msgstr "Proprietário de e-mail"
+
+#: admin/links.php:336
+msgid "Status"
+msgstr "Situação"
+
+#: admin/links.php:337
+msgid "Email"
+msgstr "Email"
+
+#: admin/links.php:354 admin/links.php:373
+msgid "Link was found, everything is good"
+msgstr "Link foi encontrado, tudo é bom"
+
+#: admin/links.php:356 admin/links.php:374
+msgid "Link was not found"
+msgstr "Link não foi encontrado"
+
+#: admin/links.php:358 admin/links.php:375
+msgid "No status saved yet, refresh status"
+msgstr "Nenhum status salvos ainda, status de atualização"
+
+#: admin/links.php:363
+msgid "Send"
+msgstr "Enviar"
+
+#: admin/links.php:364
+msgid "Refresh status of this reciprocal link"
+msgstr "Atualizar status desta ligação recíproca"
+
+#: admin/links.php:364
+msgid "Refresh"
+msgstr "Atualizar"
+
+#: admin/links.php:365
+msgid "Are you sure you want to delete reciprocal link"
+msgstr "Tem certeza de que deseja excluir ligação recíproca"
+
+#: admin/links.php:372
+msgid "Status explanation"
+msgstr "Explicação estatuto"
+
+#: admin/links.php:381
+msgid "Send Warning Emails"
+msgstr "Enviar e-mails de advertência"
+
+#: admin/links.php:388
+msgid ""
+"Link Title cannot be empty, otherwise link will not be visible for user."
+msgstr ""
+"Link Título não pode ser vazio, caso contrário, a ligação não será visível "
+"para o usuário."
+
+#: admin/links.php:389
+msgid ""
+"Enter URL with <strong>http://</strong> or <strong>https://</strong> ... if "
+"you enter just www.your_site.com, this may not work!"
+msgstr ""
+"Enter URL com <strong>http: //</strong> ou <strong>https: //</strong> ... se "
+"você digitar apenas www.your_site.com, isso pode não funcionar!"
+
+#: admin/links.php:390
+msgid ""
+"When auto-hooked, it is added to hook <strong>footer</strong> that should be "
+"placed in every theme in footer.php (footer file) at bottom of page. Links "
+"are wrapped in div with id <strong>#footer-links</strong> and has default "
+"style: width:100%; float:left; clear:both;"
+msgstr ""
+"Quando auto-viciado, ele é adicionado para ligar <strong>rodapé que</strong> "
+"deve ser colocado em cada tema em footer.php (arquivo de rodapé) na parte "
+"inferior da página. Os links são envolto em div com ID <strong># footer-"
+"links</strong> e tem estilo padrão: width: 100%; float: left; limpar ambos;"
+
+#: admin/links.php:391
+msgid ""
+"Check this to add link to footer. This link will be thrown by function "
+"<strong>SeoFooterLinks()</strong> that needs to be auto-hooked or placed "
+"manually to footer - read <sup class=\"sup-go go1\">(1)</sup>. Otherwise, "
+"link will not be shown."
+msgstr ""
+"Marque essa opção para adicionar link para rodapé. Este link será lançada "
+"pelo <strong>SeoFooterLinks ()</strong> função que precisa ser auto-viciado "
+"ou colocados manualmente para rodapé - leia <sup class=\"sup-go go1\">(1).</"
+"sup> Caso contrário, a ligação não será exibida."
+
+#: admin/links.php:392
+#, php-format
+msgid ""
+"Check this to add <strong>rel=\"nofollow\"</strong> to body of link. This "
+"cause that link will not be followed by search engines and in fact it "
+"improves your SEO ranking (because you lower number of links that follow to "
+"external sites). Remember that this practice is not 100% fair for people you "
+"are exchanging links and they can stop to work with you when they realize "
+"that links has nofollow attribute."
+msgstr ""
+"Check this to add <strong>rel=\"nofollow\"</strong> to body of link. This "
+"cause that link will not be followed by search engines and in fact it "
+"improves your SEO ranking (because you lower number of links that follow to "
+"external sites). Remember that this practice is not 100% fair for people you "
+"are exchanging links and they can stop to work with you when they realize "
+"that links has nofollow attribute."
+
+#: admin/links.php:393
+msgid ""
+"Enter here URL that reffers - points to your site.<br /><strong>Example:</"
+"strong> If you ask someone to place on his website your backlink, it can be "
+"something like this"
+msgstr ""
+"Digite aqui URL que reffers - aponta para o seu site. <br /> "
+"<strong>Exemplo: Se</strong> você perguntar a alguém para colocar em seu "
+"site o seu backlink, pode ser algo parecido com isto"
+
+#: admin/links.php:393
+msgid "Buy & Sell everything"
+msgstr "Compra e Venda de tudo"
+
+#: admin/links.php:393
+msgid "in this link, "
+msgstr "ligação rodapé"
+
+#: admin/links.php:393
+msgid "is "
+msgstr "é"
+
+#: admin/links.php:393
+msgid "your referral URL"
+msgstr "seu URL de referência"
+
+#: admin/links.php:394
+msgid ""
+"Enter here URL where is placed your backlink. Usually this is some external "
+"site that refers back to your website.<br /><strong>Example:</strong> If "
+"your backlink would be placed on"
+msgstr ""
+"Digite aqui URL onde é colocado o seu backlink. Normalmente este é um site "
+"externo que remete para o seu site. <br /> <strong>Exemplo:</strong> Se o "
+"seu backlink seria colocado em"
+
+#: admin/links.php:394
+msgid "this would be"
+msgstr "isto seria"
+
+#: admin/links.php:394
+msgid "URL with your link, "
+msgstr "URL com seu link,"
+
+#: admin/links.php:395
+msgid ""
+"Enter email contact to owner of website, where is placed your link. In case "
+"link is removed (or cannot be found), plugin can send warning email to this "
+"person that link was removed and if will not be added again, cooperation "
+"with that website will be cancelled"
+msgstr ""
+"Digite e-mail para o dono do site, onde é colocado o seu link. No caso de "
+"ligação é removida (ou não pode ser encontrado), plugin pode enviar e-mails "
+"de advertência a esta pessoa que apontam foi removido e se não será "
+"adicionado novamente, a cooperação com que o site será cancelada"
+
+#: admin/links.php:396
+msgid ""
+"Select to which people you want to send warning email that reciprocal link "
+"was not found on their website with kindly request to add it here or inform "
+"you why it is not here. You can send email just in case status is red - link "
+"not found. You can also select which people you want to contact."
+msgstr ""
+"Selecione a que as pessoas que você deseja enviar e-mail de aviso que "
+"ligação recíproca não foi encontrado em seu site com pedido gentilmente para "
+"adicioná-lo aqui ou informá-lo por que ele não está aqui. Você pode enviar e-"
+"mail apenas no status do caso é vermelho - link não encontrado. Você também "
+"pode selecionar quais pessoas você quiser entrar em contato."
+
+#: admin/listings.php:308
+msgid "Meta Settings Saved"
+msgstr "Configurações Salvas"
+
+#: admin/listings.php:327
+msgid "Meta Global Settings"
+msgstr "Configurações globais"
+
+#: admin/listings.php:328
+msgid "Meta Tags on item post/edit"
+msgstr "Meta Tags no item de post / editar"
+
+#: admin/listings.php:330
+msgid "Allow to all users"
+msgstr "Permitir a todos os utilizadores"
+
+#: admin/listings.php:331
+msgid "Allow to registered users only"
+msgstr "Deixe somente para usuários registrados"
+
+#: admin/listings.php:332
+msgid "Allow only to admin"
+msgstr "Permitir apenas ao admin"
+
+#: admin/listings.php:334
+msgid ""
+"If you are logged in as admin (in oc-admin), you will still be able to see "
+"custom meta option even if it is disabled. If you loggout from oc-admin, you "
+"will not see it."
+msgstr ""
+"Se você estiver logado como administrador (em oc-admin), você ainda será "
+"capaz de ver costume meta opção mesmo se ele está desativado. Se você "
+"loggout de oc-admin, você não vai vê-lo."
+
+#: admin/listings.php:341
+msgid "Separate keywords with comma, i.e.: key1, key2, key3"
+msgstr "Palavras-chave separadas com vírgula, ou seja: key1, key2, key3"
+
+#: admin/listings.php:345
+msgid "Delimiter (used in title) "
+msgstr "Delimitador (usado no título):"
+
+#: admin/listings.php:352
+msgid "Meta Settings"
+msgstr "Configurações da Meta"
+
+#: admin/listings.php:356
+msgid "Listing page - this settings will be reflected just on this pages"
+msgstr ""
+"Listagem página - essas configurações serão refletidas apenas a partir desta "
+"páginas"
+
+#: admin/listings.php:363
+msgid "Page title on listing page"
+msgstr "Título da página na página de listagem"
+
+#: admin/listings.php:370 admin/listings.php:498
+msgid "Name of field"
+msgstr "Nome de campo"
+
+#: admin/listings.php:371 admin/listings.php:499
+msgid "Show in meta title"
+msgstr "Mostrar no título meta"
+
+#: admin/listings.php:372 admin/listings.php:500
+msgid "Order"
+msgstr "Pedido"
+
+#: admin/listings.php:383 admin/listings.php:401 admin/listings.php:419
+#: admin/listings.php:437 admin/listings.php:455 admin/listings.php:470
+#: admin/listings.php:511 admin/listings.php:529 admin/listings.php:547
+#: admin/listings.php:565 admin/listings.php:581 admin/listings.php:597
+msgid "1. First"
+msgstr "1. Primeiro"
+
+#: admin/listings.php:384 admin/listings.php:402 admin/listings.php:420
+#: admin/listings.php:438 admin/listings.php:456 admin/listings.php:471
+#: admin/listings.php:512 admin/listings.php:530 admin/listings.php:548
+#: admin/listings.php:566 admin/listings.php:582 admin/listings.php:598
+msgid "2. Second"
+msgstr "2. Segundo"
+
+#: admin/listings.php:385 admin/listings.php:403 admin/listings.php:421
+#: admin/listings.php:439 admin/listings.php:457 admin/listings.php:472
+#: admin/listings.php:513 admin/listings.php:531 admin/listings.php:549
+#: admin/listings.php:567 admin/listings.php:583 admin/listings.php:599
+msgid "3. Third"
+msgstr "[3] Terceiro:"
+
+#: admin/listings.php:386 admin/listings.php:404 admin/listings.php:422
+#: admin/listings.php:440 admin/listings.php:458 admin/listings.php:473
+#: admin/listings.php:514 admin/listings.php:532 admin/listings.php:550
+#: admin/listings.php:568 admin/listings.php:584 admin/listings.php:600
+msgid "4. Fourth"
+msgstr "[4] Quarto:"
+
+#: admin/listings.php:387 admin/listings.php:405 admin/listings.php:423
+#: admin/listings.php:441 admin/listings.php:459 admin/listings.php:474
+#: admin/listings.php:515 admin/listings.php:533 admin/listings.php:551
+#: admin/listings.php:569 admin/listings.php:585 admin/listings.php:601
+msgid "5. Fifth"
+msgstr "[5] Quinto:"
+
+#: admin/listings.php:388 admin/listings.php:406 admin/listings.php:424
+#: admin/listings.php:442 admin/listings.php:460 admin/listings.php:475
+#: admin/listings.php:516 admin/listings.php:534 admin/listings.php:552
+#: admin/listings.php:570 admin/listings.php:586 admin/listings.php:602
+msgid "6. Sixth"
+msgstr "6. sexto"
+
+#: admin/listings.php:448 admin/listings.php:558
+msgid "Page Title"
+msgstr "Título da Página"
+
+#: admin/listings.php:484
+msgid ""
+"Category / Search page - this settings will be reflected just on this pages"
+msgstr ""
+"Categoria / Página de busca - esta configuração será refletido apenas a "
+"partir desta páginas"
+
+#: admin/listings.php:491
+msgid "Page title on category page"
+msgstr "Título da página na página categoria"
+
+#: admin/listings.php:611
+msgid "Improve Meta description of category & search pages"
+msgstr "Melhorar a descrição Meta de categoria e páginas de busca"
+
+#: admin/listings.php:621
+msgid "Home page - this settings will be reflected just on this pages"
+msgstr ""
+"Home page - essas configurações serão refletidas apenas a partir desta "
+"páginas"
+
+#: admin/listings.php:624
+msgid "Title on home page"
+msgstr "Título na home page"
+
+#: admin/listings.php:629
+msgid "Description on home page"
+msgstr "Descrição na home page"
+
+#: admin/listings.php:636
+msgid "Other pages - this settings will be reflected just on this pages"
+msgstr ""
+"Outras páginas - essas configurações serão refletidas apenas a partir desta "
+"páginas"
+
+#: admin/listings.php:639
+msgid "Position of page title"
+msgstr "Posição do título da página"
+
+#: admin/listings.php:641
+msgid "First"
+msgstr "Primeira"
+
+#: admin/listings.php:642
+msgid "Last"
+msgstr "Último"
+
+#: admin/listings.php:647
+msgid "Page title on other pages"
+msgstr "Título da página em outras páginas"
+
+#: admin/listings.php:665
+msgid "Important notes for good SEO performance"
+msgstr "Notas importantes para o bom desempenho SEO"
+
+#: admin/listings.php:667
+msgid ""
+"Objective of this plugin is improve Meta Tags for your classifieds and bring "
+"more customers from search engines and higher click rate in search engines"
+msgstr ""
+"Objetivo deste plugin é melhorar Meta Tags para seus anúncios e trazer mais "
+"clientes a partir de motores de busca e maior taxa de cliques nos motores de "
+"busca"
+
+#: admin/listings.php:668
+msgid ""
+"Before using this plugin, read some tips & tricks of SEO for your contry. "
+"You should also get familiar with Search Engine Optimization so you know "
+"what are you doing"
+msgstr ""
+"Antes de usar este plugin, ler algumas dicas e truques de SEO para seu "
+"contry. Você também deve se familiarizar com o Search Engine Optimization "
+"para que você saiba o que está fazendo"
+
+#: admin/listings.php:668
+msgid "What is SEO ?"
+msgstr "O que é SEO?"
+
+#: admin/listings.php:669
+msgid ""
+"Almost all parts of plugin (except BackLink section) is targeted to improve "
+"<strong>on-page SEO factors</strong> that are just part of SEO success"
+msgstr ""
+"Quase todas as partes do plugin (com excepção da secção BackLink) é "
+"direcionado para <strong>melhorar</strong> os fatores de <strong>SEO na "
+"página</strong> que são apenas parte de SEO sucesso"
+
+#: admin/listings.php:670
+msgid ""
+"BackLink section helps you in BackLink Management (link exchange) with other "
+"websites and improve <strong>off-page SEO factors</strong> that are very "
+"important as well"
+msgstr ""
+"BackLink seção ajuda você em Gestão BackLink (troca de links) com outros "
+"sites e melhorar a <strong>fatores fora da página SEO</strong> que são muito "
+"importantes, bem"
+
+#: admin/listings.php:671
+msgid ""
+"When you change your meta titles & description, you can have less vistors "
+"for few days till search engines reindex your website with new meta details"
+msgstr ""
+"Quando você muda sua meta títulos e descrição, você pode ter menos vistors "
+"para alguns dias até que os motores de busca indexar o seu site com novos "
+"detalhes meta"
+
+#: admin/listings.php:672
+msgid ""
+"Plugin itself cannot break anything. You cannot set plugin to be "
+"<strong>wrong</strong>, there are just <strong>better</strong> and "
+"<strong>less better</strong> solutions"
+msgstr ""
+"Plugin si só não pode quebrar nada. Você não pode definir plugin para "
+"<strong>estar</strong> errado, há <strong>apenas</strong> melhor <strong>e</"
+"strong> menos <strong>soluções melhores</strong>"
+
+#: admin/listings.php:673
+msgid ""
+"There are no general good pratices in setting order of meta tags, please do "
+"not contact us with this question"
+msgstr ""
+"Não há boas praticas gerais, a fim de definir meta tags, por favor não "
+"contactar-nos com esta pergunta"
+
+#: admin/listings.php:674
+msgid ""
+"To set Meta Tags best as you can, check competitive websites in your country "
+"(other successful classifieds) and check what they use in meta title, "
+"description & keywords and use similar settings or try to improve it"
+msgstr ""
+"Para definir Meta Tags melhor que você puder, verificar sites competitivos "
+"no seu país (outros anúncios de sucesso) e verificar o que eles usam na meta "
+"título, descrição e palavras-chave e usar as configurações semelhantes ou "
+"tentar melhorá-lo"
+
+#: admin/listings.php:675
+msgid ""
+"<strong>Meta Title</strong> should be long <strong>50-60 characters</"
+"strong>, otherwise it will not be shown whole in search engines"
+msgstr ""
+"<strong>Meta Título deve ser</strong> longo <strong>50-60 caracteres,</"
+"strong> caso contrário ele não será exibido ao todo em motores de busca"
+
+#: admin/listings.php:676
+msgid ""
+"<strong>Meta Description</strong> should be long <strong>150-160 characters</"
+"strong>, otherwise it will not be shown whole in search engines"
+msgstr ""
+"<strong>Descrição Meta</strong> deve ser longa <strong>150-160 caracteres,</"
+"strong> caso contrário ele não será exibido ao todo em motores de busca"
+
+#: admin/listings.php:677
+msgid ""
+"Best practice for Meta Title & Description is when there are keywords "
+"usually used in search. This will secure that those tags will be shown in "
+"search engine in particular search"
+msgstr ""
+"As melhores práticas para Meta Título e Descrição é quando há palavras-chave "
+"geralmente utilizados na pesquisa. Isto irá assegurar que essas tags será "
+"mostrado no motor de busca, em particular, pesquisa"
+
+#: admin/listings.php:678
+msgid ""
+"When no keywords from search are found in your meta tags, search engine "
+"generate own meta tags for your site that fits search parameters more then "
+"your own"
+msgstr ""
+"Quando não há palavras-chave de pesquisa são encontradas em sua meta tags, "
+"motor de busca gerar próprios meta tags para seu site que se encaixa "
+"parâmetros de busca mais do que o seu próprio"
+
+#: admin/listings.php:679
+msgid ""
+"Text shown in left (shown first) in meta tags has more weight than text on "
+"right side"
+msgstr ""
+"Texto mostrado na esquerda (primeiro) no metatags tem mais peso do que o "
+"texto no lado direito"
+
+#: admin/listings.php:680
+msgid "You should not have more than <strong>10 meta keywords</strong> on page"
+msgstr ""
+"Você não deve ter <strong>mais</strong> de 10 <strong>meta palavras-chave</"
+"strong> na página"
+
+#: admin/listings.php:681
+msgid ""
+"Do not contact us about SEO questions and support, we are developers, not "
+"SEO consultants"
+msgstr ""
+"Não entre em contato conosco sobre questões de SEO e de apoio, nós somos "
+"desenvolvedores, consultores de SEO não"
+
+#: admin/listings.php:682
+msgid ""
+"SEO is neverending story, you should still try to improve it and do it with "
+"love and patient"
+msgstr ""
+"SEO é interminável história, você deve ainda tentar melhorá-lo e fazê-lo com "
+"amor e paciente"
+
+#: admin/listings.php:683
+msgid ""
+"There are also other very important areas - copywritting, blogs, no "
+"duplicates on your website, no spam, try to get unique content... Check "
+"osclass for more tips"
+msgstr ""
+"Há também outras áreas muito importantes - copywritting, blogs, não há "
+"duplicatas em seu site, sem spam, para tentar obter conteúdo exclusivo ... "
+"Entrada osclass para mais dicas"
+
+#: admin/listings.php:684
+msgid ""
+"If you have tips & ideas for improvement of this plugin, place your ideas "
+"into forums thread of this plugin"
+msgstr ""
+"Se você tiver dicas e idéias para a melhoria deste plugin, colocar suas "
+"idéias em fóruns de discussão deste plugin"
+
+#: admin/listings.php:684
+msgid "All in One SEO Forum Thread"
+msgstr "All in One SEO Forum Tópico"
+
+#: admin/listings.php:685
+msgid "You can see in action how this plugin helps osclass"
+msgstr "Você pode ver em ação como este plugin ajuda osclass"
+
+#: admin/listings.php:685
+msgid "How All in One SEO Plugin helps osclass"
+msgstr "Como All in One SEO Plugin ajuda osclass"
+
+#: admin/listings.php:686
+msgid ""
+"When you are starting classifieds, you can check general good tips & "
+"practices on our website"
+msgstr ""
+"Quando você está começando Classificados, você pode verificar gerais boas "
+"dicas e práticas em nosso site"
+
+#: admin/listings.php:686
+msgid "How to start classifieds"
+msgstr "Como iniciar Classificados"
+
+#: admin/listings.php:689
+msgid ""
+"If allowed only to admin, administrator can add/edit meta tags of listings "
+"on front & backend as well, when logged in to oc-admin in web browser."
+msgstr ""
+"Se for permitido apenas para admin, administrador pode adicionar / editar "
+"meta tag de anúncios na parte dianteira & backend, bem como, quando "
+"conectado para oc-admin no navegador web."
+
+#: admin/listings.php:690
+msgid ""
+"Keywords needs to be separated with <strong>,</strong> (comma). After last "
+"keyword, there should not be comma."
+msgstr ""
+"Palavras-chave precisa ser separado <strong>com, (vírgula).</strong> Depois "
+"da última palavra-chave, não deve haver vírgula."
+
+#: admin/listings.php:690
+msgid ""
+"Keywords will be added to Meta Keywords on every osclass page as appendix "
+"(to the end)."
+msgstr ""
+"Palavras-chave será adicionado à Meta Palavras-chave em cada página osclass "
+"como apêndice (até o fim)."
+
+#: admin/listings.php:690
+msgid "To disable this function, leave keywords field blank."
+msgstr "Para desabilitar esta função, deixar palavras-chave campo em branco."
+
+#: admin/listings.php:691
+msgid ""
+"You do not need to enter white spaces around delimiter, it will be added "
+"automatically. Means, add delimiter sign only."
+msgstr ""
+"Você não precisa digitar espaços em branco em torno de delimitador, ele será "
+"adicionado automaticamente. Meios, adicione único sinal delimitador."
+
+#: admin/listings.php:692
+msgid "Your current page title for Listings page is"
+msgstr "Seu título da página atual de lista de propriedades página é"
+
+#: admin/listings.php:692 admin/listings.php:694
+msgid ""
+"You can change this in field <strong>Page title on listing page</strong>. "
+"When this field is empty, default Home Page title is shown."
+msgstr ""
+"Você pode mudar isso no campo <strong>Título da página na página de listagem."
+"</strong> Quando este campo estiver vazio, padrão título Página é mostrado."
+
+#: admin/listings.php:693
+msgid ""
+"When user define Meta Title, this is shown, otherwise, normal Title of "
+"Listing is shown. You cannot hide this field in Meta title."
+msgstr ""
+"Quando o usuário definir Meta título, isso é mostrado, caso contrário, o "
+"título normal do anúncio é mostrado. Você não pode esconder este campo em "
+"título Meta."
+
+#: admin/listings.php:694
+msgid "Your current page title is"
+msgstr "O título da página atual é"
+
+#: admin/listings.php:695
+msgid ""
+"When Meta Title for Category is defined, this one is taken. Otherwise "
+"Category name is used."
+msgstr ""
+"Quando Título Meta da categoria é definido, este é tomada. Caso contrário "
+"nome Categoria é usada."
+
+#: admin/listings.php:696
+msgid "Search pattern cannot be hidden and if is not empty, it will be shown."
+msgstr ""
+"Pesquisa padrão não pode ser escondido e se não estiver vazio, ele será "
+"mostrado."
+
+#: admin/listings.php:697
+msgid ""
+"It is recommended to allow this. It will add part of listing title that are "
+"in currect category or search to improve chance of matching search keyword."
+msgstr ""
+"Recomenda-se a permitir isso. Ele irá adicionar parte do título do anúncio "
+"que está na categoria currect ou procurar melhorar chance de correspondência "
+"de palavras-chave de busca."
+
+#: admin/listings.php:698
+msgid ""
+"Title & Description on homepage is exactly same as found in Settings > "
+"General. If you edit it here, it will reflect also there."
+msgstr ""
+"Título & Descrição na homepage é exatamente igual ao encontrado em Ajustes> "
+"Geral. Se você editá-lo aqui, ele vai refletir também lá."
+
+#: admin/listings.php:699
+msgid ""
+"On all pages except Search/Category, Home & Listings page, this setting is "
+"valid. You can add custom Page Title that can be shown at first or last "
+"position in Meta Title. When Title for Other pages is empty, default title "
+"is taken (same as Home Page title)."
+msgstr ""
+"Em todas as páginas, exceto Pesquisa / categoria, Home & Listagens página, "
+"essa configuração é válido. Você pode adicionar personalizado Título da "
+"página que pode ser mostrado em primeira ou última posição no título Meta. "
+"Quando Título para outras páginas está vazio, título padrão é tomada (o "
+"mesmo do título Home Page)."
+
+#: admin/listings.php:702
+msgid ""
+"If you want to use custom meta title, description and keywords of items on "
+"<strong>listing</strong> and <strong>search</strong> page</li> (search_list."
+"php, search_gallery.php, item.php, main.php - latest block), you can do it "
+"with following functions"
+msgstr ""
+"Se você quiser usar personalizado meta título, descrição e palavras-chave de "
+"itens na <strong>lista</strong> e <strong>página</strong> de pesquisa </li> "
+"(search_list.php, search_gallery.php, item.php, main.php - último bloco), "
+"você pode fazê-lo com seguintes funções"
+
+#: admin/listings.php:706
+msgid ""
+"Above listed functions automatically use to identify item, osclass build in "
+"function <strong>osc_item_id()</strong>, so you can use them only on pages "
+"where osc_item_id() is active"
+msgstr ""
+"Acima de funções listadas automaticamente usar para identificar item, "
+"osclass construir em função <strong>osc_item_id (), então</strong> você pode "
+"usá-los apenas nas páginas onde osc_item_id () está ativo"
+
+#: admin/locations.php:6
+msgid "Meta settings for locations saved"
+msgstr "Meta definições para localizações guardadas"
+
+#: admin/locations.php:20
+msgid "Countries & Regions Meta Settings"
+msgstr "Países e regiões Meta configurações"
+
+#: admin/locations.php:21
+msgid "Edit Locations"
+msgstr "Editar localizações"
+
+#: admin/locations.php:22
+msgid ""
+"You can set custom meta title, description and keywords for countries and "
+"regions"
+msgstr ""
+"Você pode definir personalizado meta título, descrição e palavras-chave para "
+"os países e regiões"
+
+#: admin/locations.php:29
+msgid "Country Name"
+msgstr "Nome Pais"
+
+#: admin/locations.php:41
+msgid "Update locations"
+msgstr "Atualizar Locais"
+
+#: admin/locations.php:47
+msgid ""
+"If you do not enter Meta details for region or country, default osclass "
+"settings are used."
+msgstr ""
+"Se você não inserir detalhes Meta para a região ou país, configurações "
+"osclass padrão são usados."
+
+#: admin/locations.php:48
+msgid ""
+"Do not enter more than 5 keywords per each location, it would be useless"
+msgstr "Não digite mais de 5 palavras-chave por cada local, seria inútil"
+
+#: admin/locations.php:51
+msgid ""
+"Meta description & title should contain some keyword for your region/country "
+"(it's name). This will secure that when user search this word, your site "
+"will be shown with your Meta Title & Description you entered here. "
+"Otherwise, Google - or other search engines - will generate own."
+msgstr ""
+"Meta descrição e título deve conter algumas palavras-chave para a sua "
+"região / país (é nome). Isto irá assegurar que quando o usuário procurar "
+"esta palavra, o seu site vai ser mostrado com seu Meta Título & Descrição "
+"que você entrou aqui. Caso contrário, o Google - ou outros motores de busca "
+"- irá gerar próprio."
+
+#: admin/locations.php:52
+msgid ""
+"When you are on listing page and you show region or country in title, region "
+"& country name <span class=\"underline\">will not</span> be replaced by "
+"region/country meta title placed here"
+msgstr ""
+"Quando você está na página de listagem e você mostrar região ou país em "
+"título, região e nome do país <span class=\"underline\">não será substituído "
+"por</span> região / país meta título colocado aqui"
+
+#: admin/pages.php:16
+msgid "Meta settings saved"
+msgstr "Configurações Salvas"
+
+#: admin/pages.php:41
+msgid "Add new or Edit existing Page"
+msgstr "Adicionar novo ou Editar Página existente"
+
+#: admin/pages.php:42
+msgid ""
+"Edit button will take you to pages management site where you can edit this "
+"static page."
+msgstr ""
+"Botão Editar o levará ao site de gerenciamento de páginas onde você pode "
+"editar esta página estática."
+
+#: admin/pages.php:43
+msgid ""
+"View button will open static page in new window and you will see page in "
+"front-office."
+msgstr ""
+"Ver botão, será aberta página estática em uma nova janela e você vai ver "
+"página no front-office."
+
+#: admin/pages.php:50
+msgid "Page Name"
+msgstr "Nome da página:"
+
+#: admin/pages.php:68
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/pages.php:69
+msgid "View"
+msgstr "Ver"
+
+#: admin/pages.php:77
+msgid "Update pages"
+msgstr "Atualizar páginas"
+
+#: admin/pages.php:83
+msgid ""
+"If you do not enter Meta details for page, default osclass settings are used."
+msgstr ""
+"Se você não inserir detalhes Meta para página, as configurações padrão "
+"osclass são usados."
+
+#: admin/pages.php:84
+msgid ""
+"Meta title should have <strong>50-60 characters</strong>, Meta description "
+"<strong>150-160 characters</strong> and there should be <strong>4-5 "
+"keywords</strong>."
+msgstr ""
+"Meta título deve ter <strong>50-60 personagens,</strong> descrição meta "
+"<strong>150-160 caracteres</strong> e deve haver <strong>4-5 palavras-chave."
+"</strong>"
+
+#: admin/robots.php:34
+msgid "Backup file robots_backup.txt file was successfully created"
+msgstr "Arquivo robots_backup.txt arquivo de backup foi criado com êxito"
+
+#: admin/robots.php:45
+msgid "robots.txt file was successfully updated"
+msgstr "arquivo robots.txt foi atualizado com sucesso"
+
+#: admin/robots.php:48
+msgid ""
+"It is impossible to write to robots.txt file, please change CHMOD settings "
+"on this file."
+msgstr ""
+"É impossível gravar no arquivo robots.txt, altere as configurações CHMOD "
+"sobre este dossier."
+
+#: admin/robots.php:68
+msgid "Robots.txt file settings"
+msgstr "Configurações arquivo robots.txt"
+
+#: admin/robots.php:70
+msgid "Choose robots you want to use"
+msgstr "Escolha robôs que você deseja usar"
+
+#: admin/robots.php:78
+msgid "Robots.txt content "
+msgstr "Conteúdo robots.txt"
+
+#: admin/robots.php:84
+msgid "Update robots.txt file"
+msgstr "Atualize arquivo robots.txt"
+
+#: admin/robots.php:90
+msgid ""
+"You can use robots.txt generated by this form (custom) or default robots.txt "
+"(original). When original choosen will be choosen, copy from backup file "
+"will be used to restore original file"
+msgstr ""
+"Você pode usar robots.txt gerado por esta forma (personalizado) ou robots."
+"txt padrão (original). Quando pretendido original será escolhido, copie a "
+"partir do arquivo de backup será utilizada para restaurar arquivo original"
+
+#: admin/robots.php:91
+msgid ""
+"File robots.txt give instruction to search engine crawlers how to index "
+"website, what to index, what not to index and similar. <strong>Example:</"
+"strong> admin folder (oc-admin for osclass) is usually not indexed because "
+"you do not want your customer to access your backoffice, or show links to "
+"your backoffice in search engine."
+msgstr ""
+"Arquivo robots.txt dar instruções ao motor de pesquisa indexadores como site "
+"índice, o que para o índice, o que não para indexar e <strong>semelhante. "
+"Exemplo:</strong> pasta admin (oc-admin para osclass) geralmente não é "
+"indexada, porque você não quer que seu cliente para acesso seu backoffice, "
+"ou mostrar links para seu backoffice no motor de busca."
+
+#: admin/robots.php:91
+msgid ""
+"Therefore you should always disable admin folder (oc-admin) not to be "
+"indexed by search engines. For your site it is path:"
+msgstr ""
+"Portanto, você deve sempre desativar pasta admin (oc-admin) não deve ser "
+"indexado pelos motores de busca. Para o seu site é caminho:"
+
+#: admin/robots.php:92
+msgid ""
+"When you create robots.txt file using this form, original one will be back "
+"up in same folder with name <strong>robots_backup.txt</strong>. This file "
+"will be used just in case it does not exist. If it exists, it will not be "
+"overwritten."
+msgstr ""
+"Quando você criar o arquivo robots.txt utilizando este formulário, original "
+"estará de volta em mesma pasta com o nome <strong>robots_backup.txt.</"
+"strong> Esse arquivo será utilizado apenas no caso de ele não existe. Se ele "
+"existir, não será substituído."
+
+#: admin/robots.php:94
+msgid ""
+"Do not miss following pages that helps you to understand and correctly "
+"generate robots.txt file:"
+msgstr ""
+"Não perca seguinte páginas que ajuda você a entender corretamente e gerar o "
+"arquivo robots.txt:"
+
+#: admin/robots.php:95
+msgid "robots.txt generator"
+msgstr "gerador de robots.txt"
+
+#: admin/robots.php:96
+msgid "robots.txt documentation"
+msgstr "documentação robots.txt"
+
+#: admin/stats.php:24
+msgid "Web Info"
+msgstr "Web Info"
+
+#: admin/stats.php:25
+msgid "Web Domain"
+msgstr "Domínio Web"
+
+#: admin/stats.php:30
+msgid "Sub Domain"
+msgstr "Sub Domínio"
+
+#: admin/stats.php:38
+msgid "Google"
+msgstr "Google"
+
+#: admin/stats.php:41
+msgid "Info for domain"
+msgstr "Informações para o domínio"
+
+#: admin/stats.php:44 admin/stats.php:62
+msgid "PageRank"
+msgstr "PageRank"
+
+#: admin/stats.php:48 admin/stats.php:66 admin/stats.php:92
+msgid "BackLinks"
+msgstr "Backlink"
+
+#: admin/stats.php:52 admin/stats.php:70
+msgid "Indexed Pages"
+msgstr "Páginas cadastradas"
+
+#: admin/stats.php:59
+msgid "Info for subdomain"
+msgstr "Informações para subdomínio"
+
+#: admin/stats.php:85
+msgid "Alexa"
+msgstr "Alexa"
+
+#: admin/stats.php:88
+msgid "Alexa Rank"
+msgstr "Alexa Rank"
+
+#: admin/stats.php:103
+msgid "Social"
+msgstr "Social"
+
+#: admin/stats.php:106
+msgid "Tweets"
+msgstr "Tweets"
+
+#: admin/stats.php:110
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/stats.php:114
+msgid "LinkedIN"
+msgstr "LinkedIN"
+
+#: admin/stats.php:118
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/stats.php:122
+msgid "Delicious"
+msgstr "Delicious"
+
+#: admin/stats.php:126
+msgid "Stumble"
+msgstr "STUMBLE UPON"
+
+#: admin/stats.php:133
+msgid "Bot Detector"
+msgstr "Detector Bot"
+
+#: admin/stats.php:137
+msgid "Your site is not crawled by any spider (bot)."
+msgstr "Seu site não será rastreado por qualquer aranha (bot)."
+
+#: admin/stats.php:137
+msgid "Your site is crawled by <strong>"
+msgstr "Seu site é rastreado por<strong></strong>"
+
+#: admin/stats.php:144
+msgid ""
+"If your website is not running on subdomain, details for subdomain will be "
+"hidden."
+msgstr ""
+"Se seu site não está em execução no subdomínio, detalhes sobre subdomínio "
+"ficará escondido."
+
+#: admin/stats.php:145
+msgid ""
+"Numbers & Ranks shown here may be lower than are in real, therefore you "
+"should not believe it on 100%, it is just to give you orientation how your "
+"website is going."
+msgstr ""
+"Números & Ranks mostrados aqui podem ser menores do que estão em real, "
+"portanto você não deve acreditar em 100%, é só para lhe dar orientação como "
+"seu site está indo."
+
+#: admin/stats.php:146
+msgid ""
+"Parsing/getting values may sometimes fail (usually in rush hours), it means "
+"you will see only blank space instead of number. This is usually caused when "
+"scripts managing values are overloaded."
+msgstr ""
+"Analisando / obter valores às vezes pode falhar (geralmente em horas de "
+"ponta), isso significa que você vai ver apenas um espaço em branco em vez do "
+"número. Isso geralmente é causado quando gerenciamento de scripts valores "
+"estão sobrecarregadas."

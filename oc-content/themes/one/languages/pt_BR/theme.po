@@ -1,0 +1,888 @@
+# English translations for one - theme map package.
+# Copyright (C) 2014 THE one - theme map'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the one - theme map package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: one - theme map 5.0.0\n"
+"Report-Msgid-Bugs-To: info@osclass.org\n"
+"POT-Creation-Date: 2014-11-05 10:30+0100\n"
+"PO-Revision-Date: 2016-09-23 23:02-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: tmp/one/./404.php:34
+msgid "Page not found"
+msgstr "página não funciona"
+
+#: tmp/one/./admin/header.php:5 tmp/one/./inc.functions.php:17 tmp/one/./inc.functions.php:25
+msgid "Header logo"
+msgstr "Logo do cabeçalho"
+
+#: tmp/one/./admin/header.php:8
+msgid "Preview"
+msgstr "Visualização"
+
+#: tmp/one/./admin/header.php:15
+msgid "Remove logo"
+msgstr "Remover logo"
+
+#: tmp/one/./admin/header.php:23
+msgid "No logo has been uploaded yet"
+msgstr "Nenhum logotipo ainda não foi carregado"
+
+#: tmp/one/./admin/header.php:26
+msgid "Upload logo"
+msgstr "Upload logo"
+
+#: tmp/one/./admin/header.php:28
+msgid "The preferred size of the logo is 600x100."
+msgstr "O tamanho padrão do logotipo é de 600 x 100."
+
+#: tmp/one/./admin/header.php:30
+msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgstr "<strong>Note:</strong>Fazer upload de  outro logotipo vai substituir o logotipo atual."
+
+#: tmp/one/./admin/header.php:38
+msgid "Logo image (png,gif,jpg)"
+msgstr "Logo image (png,gif,jpg)"
+
+#: tmp/one/./admin/header.php:44
+msgid "Upload"
+msgstr "Upload"
+
+#: tmp/one/./admin/header.php:53
+#, php-format
+msgid "The images folder <strong>%s</strong> is not writable on your server"
+msgstr "A pasta de imagens <strong>%s</strong> não é gravável no seu servidor"
+
+#: tmp/one/./admin/header.php:54
+msgid "OSClass can't upload the logo image from the administration panel."
+msgstr "OSClass não pode carregar a imagem do logotipo do painel de administração."
+
+#: tmp/one/./admin/header.php:55
+msgid "Please make the aforementioned image folder writable."
+msgstr "Por favor, modifique as imagens acima mencionado."
+
+#: tmp/one/./admin/header.php:60
+msgid "To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Para tornar um diretório gravável sob UNIX executar este comando a partir do shell:"
+
+#: tmp/one/./admin/map_settings.php:2
+msgid "Map Options"
+msgstr "Opções do Mapa"
+
+#: tmp/one/./admin/map_settings.php:3
+msgid "How to assign a region to your map?"
+msgstr "Como atribuir uma região ao seu mapa?"
+
+#: tmp/one/./admin/map_settings.php:3
+msgid "First, click in the map to select the area you want to set. Then, a dialog will appear and you only need to select the region you want to assign. Finally, once you have selected the region, click the save button."
+msgstr ""
+"Primeiro, clique no mapa para selecionar a área que deseja definir. Em seguida, uma caixa de diálogo irá aparecer e você só precisa selecionar a região que você deseja atribuir. Finalmente, uma vez que você tenha "
+"selecionado a região, clique no botão salvar."
+
+#: tmp/one/./admin/map_settings.php:11 tmp/one/./admin/map_settings.php:28 tmp/one/./admin/map_settings.php:52 tmp/one/./admin/map_settings.php:75
+msgid "Select a region"
+msgstr "Selecionar a região"
+
+#: tmp/one/./admin/map_settings.php:32
+msgid "Select a region first"
+msgstr "Primeiro selecione uma região"
+
+#: tmp/one/./admin/map_settings.php:36 tmp/one/./admin/map_settings.php:57 tmp/one/./admin/settings.php:92
+msgid "Save changes"
+msgstr "Salvar auterações"
+
+#: tmp/one/./admin/settings.php:12
+msgid "I would like to contribute to the development of OSClass with a donation of"
+msgstr "Gostaria de contribuir para o desenvolvimento de OSClass com uma doação de"
+
+#: tmp/one/./admin/settings.php:17
+msgid "Custom"
+msgstr "Costumizar"
+
+#: tmp/one/./admin/settings.php:18
+msgid "Donate"
+msgstr "Doar"
+
+#: tmp/one/./admin/settings.php:22 tmp/one/./inc.functions.php:18 tmp/one/./inc.functions.php:26
+msgid "Theme settings"
+msgstr "Configurações do Tema"
+
+#: tmp/one/./admin/settings.php:28
+msgid "Search placeholder"
+msgstr "Espaço reservado para pesquiza"
+
+#: tmp/one/./admin/settings.php:32
+msgid "Footer link"
+msgstr "link de rodapé"
+
+#: tmp/one/./admin/settings.php:34
+msgid "I want to help OSClass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgstr "Eu quero ajudar OSClass ligando a <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a>do meu site com o seguinte texto:"
+
+#: tmp/one/./admin/settings.php:35
+msgid "This website is proudly using the <a title=\"OSClass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+msgstr "Este site é orgulhosamente usando o <a title=\"Osclass web\" href=\"http://osclass.org/\"> Classificados scripts de </a> software <strong> Osclass </strong>"
+
+#: tmp/one/./admin/settings.php:42
+msgid "Ads management"
+msgstr "Gerenciamento de anúncios"
+
+#: tmp/one/./admin/settings.php:46
+msgid "In this section you can configure your site to display ads and start generating revenue."
+msgstr "Nesta seção você pode configurar seu site para exibir anúncios e começar a gerar receita."
+
+#: tmp/one/./admin/settings.php:46
+msgid "If you are using an online advertising platform, such as Google Adsense, copy and paste here the provided code for ads."
+msgstr "Se você estiver usando uma plataforma de publicidade on-line, como o Google Adsense, copiar e colar aqui o código fornecido para anúncios."
+
+#: tmp/one/./admin/settings.php:52
+msgid "Header 728x90"
+msgstr "Cabeçalho 728x90"
+
+#: tmp/one/./admin/settings.php:56
+msgid "This ad will be shown at the top of your website, next to the site title and above the search results. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anúncio será mostrado na parte superior do seu site, ao lado do título do site e acima dos resultados de pesquisa. Note-se que o tamanho do anúncio tem que ser 728x90 pixels."
+
+#: tmp/one/./admin/settings.php:60
+msgid "Homepage 728x90"
+msgstr "Homepage 728x90"
+
+#: tmp/one/./admin/settings.php:64
+msgid "This ad will be shown on the main site of your website. It will appear both at the top and bottom of your site homepage. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anúncio será mostrado no site principal do seu site. Ele irá aparecer tanto na parte superior e na parte inferior da página inicial do site. Note-se que o tamanho do anúncio tem que ser 728x90 pixels."
+
+#: tmp/one/./admin/settings.php:68
+msgid "Search results 728x90 (top of the page)"
+msgstr "Resultados da pesquisa 728x90 (topo da página)"
+
+#: tmp/one/./admin/settings.php:72
+msgid "This ad will be shown on top of the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anúncio será mostrado no topo dos resultados de busca do seu site. Note-se que o tamanho do anúncio tem que ser 728x90 pixels."
+
+#: tmp/one/./admin/settings.php:76
+msgid "Search results 728x90 (middle of the page)"
+msgstr "Resultados da pesquisa 728x90 (meio da página)"
+
+#: tmp/one/./admin/settings.php:80
+msgid "This ad will be shown among the search results of your site. Note that the size of the ad has to be 728x90 pixels."
+msgstr "Este anúncio será exibido nos resultados da pesquisa do seu site. Note-se que o tamanho do anúncio tem que ser 728x90 pixels."
+
+#: tmp/one/./admin/settings.php:84
+msgid "Sidebar 300x250"
+msgstr "Sidebar 300x250"
+
+#: tmp/one/./admin/settings.php:88
+msgid "This ad will be shown at the right sidebar of your website, on the product detail page. Note that the size of the ad has to be 300x350 pixels."
+msgstr "Este anúncio será mostrado na barra lateral direita do seu site, na página de detalhes do produto. Note-se que o tamanho do anúncio tem que ser 300x350 pixels."
+
+#: tmp/one/./alert-form.php:6
+msgid "You have sucessfully subscribed to the alert"
+msgstr "Você se inscreveu com sucesso para o alerta"
+
+#: tmp/one/./alert-form.php:7 tmp/one/./user-change_email.php:42
+msgid "Invalid email address"
+msgstr "Endereço de email invalido"
+
+#: tmp/one/./alert-form.php:8
+msgid "There was a problem with the alert"
+msgstr "Houve um problema com o alerta"
+
+#: tmp/one/./alert-form.php:39
+msgid "Subscribe to this search"
+msgstr "Inscrever-se para esta pesquisa"
+
+#: tmp/one/./alert-form.php:55
+msgid "Subscribe now"
+msgstr "Inscreva-se agora"
+
+#: tmp/one/./contact.php:35 tmp/one/./template-contact.php:37
+msgid "Contact us"
+msgstr "Entre Em Contato Conosco"
+
+#: tmp/one/./contact.php:41 tmp/one/./template-contact.php:43
+msgid "Subject"
+msgstr "Assunto"
+
+#: tmp/one/./contact.php:41 tmp/one/./contact.php:43 tmp/one/./item-contact.php:52 tmp/one/./item.php:235 tmp/one/./template-contact.php:43 tmp/one/./template-contact.php:45 tmp/one/./user-public-profile.php:124
+msgid "optional"
+msgstr "opcional"
+
+#: tmp/one/./contact.php:42 tmp/one/./item-contact.php:53 tmp/one/./item-send-friend.php:52 tmp/one/./item.php:240 tmp/one/./template-contact.php:44 tmp/one/./user-public-profile.php:125
+msgid "Message"
+msgstr "Mensagem"
+
+#: tmp/one/./contact.php:43 tmp/one/./item-contact.php:49 tmp/one/./item-send-friend.php:47 tmp/one/./item.php:163 tmp/one/./item.php:233 tmp/one/./template-contact.php:45 tmp/one/./user-public-profile.php:122
+msgid "Your name"
+msgstr "Seu nome"
+
+#: tmp/one/./contact.php:44 tmp/one/./item-contact.php:50 tmp/one/./item-send-friend.php:48 tmp/one/./item.php:234 tmp/one/./template-contact.php:46 tmp/one/./user-public-profile.php:123
+msgid "Your e-mail address"
+msgstr "Seu E-mail de contato"
+
+#: tmp/one/./contact.php:47 tmp/one/./item-send-friend.php:55 tmp/one/./item.php:168 tmp/one/./item.php:260 tmp/one/./template-contact.php:48 tmp/one/./user-public-profile.php:142
+msgid "Send"
+msgstr "Enviar"
+
+#: tmp/one/./footer.php:28
+msgid "Contact"
+msgstr "Contato"
+
+#: tmp/one/./footer.php:35
+msgid "This website is proudly using the <a title=\"Osclass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>Osclass</strong>"
+msgstr "Este site é orgulhosamente usando o <a title=\"Osclass web\" href=\"http://osclass.org/\"> Classificados scripts de </a> software <strong> Osclass </strong>"
+
+#: tmp/one/./footer.php:48
+msgid "Your search must be at least three characters long"
+msgstr "Sua busca deve ser pelo menos três caracteres"
+
+#: tmp/one/./functions.php:61
+msgid "Theme settings updated correctly"
+msgstr "Configurações de tema atualizado corretamente"
+
+#: tmp/one/./functions.php:68
+msgid "The logo image has been uploaded correctly"
+msgstr "A imagem do logotipo foi carregado corretamente"
+
+#: tmp/one/./functions.php:70 tmp/one/./functions.php:73
+msgid "An error has occurred, please try again"
+msgstr "Ocorreu um erro, por favor, tente novamente"
+
+#: tmp/one/./functions.php:80
+msgid "The logo image has been removed"
+msgstr "A imagem do logotipo foi removido"
+
+#: tmp/one/./functions.php:82
+msgid "Image not found"
+msgstr "Imagem não funciona"
+
+#: tmp/one/./functions.php:105
+msgid "ie. PHP Programmer"
+msgstr "Pesquisar...."
+
+#: tmp/one/./head.php:41
+msgid "No file selected"
+msgstr "Nenhum arquivo selecionado"
+
+#: tmp/one/./head.php:42
+msgid "Choose File"
+msgstr "Escolher arquivo"
+
+#: tmp/one/./header.php:39
+#, php-format
+msgid "Hi %s"
+msgstr "Olá %s"
+
+#: tmp/one/./header.php:40
+msgid "My account"
+msgstr "Minha conta"
+
+#: tmp/one/./header.php:41
+msgid "Logout"
+msgstr "Sair"
+
+#: tmp/one/./header.php:45 tmp/one/./item.php:213
+msgid "Login"
+msgstr "Entrar"
+
+#: tmp/one/./header.php:48 tmp/one/./item.php:214 tmp/one/./user-login.php:43
+msgid "Register for a free account"
+msgstr "Registra uma conta gratuitamente"
+
+#: tmp/one/./header.php:54 tmp/one/./item-post.php:187 tmp/one/./item.php:223 tmp/one/./user-login.php:38 tmp/one/./user-profile.php:83 tmp/one/./user-recover.php:38 tmp/one/./user-register.php:49
+msgid "E-mail"
+msgstr "E-mail"
+
+#: tmp/one/./header.php:56 tmp/one/./user-login.php:39 tmp/one/./user-register.php:44
+msgid "Password"
+msgstr "Senha"
+
+#: tmp/one/./header.php:58 tmp/one/./user-login.php:40
+msgid "Remember me"
+msgstr "Repetir senha"
+
+#: tmp/one/./header.php:59 tmp/one/./user-login.php:41
+msgid "Log in"
+msgstr "Entrar"
+
+#: tmp/one/./header.php:61 tmp/one/./user-login.php:43
+msgid "Forgot password?"
+msgstr "Esqueceu a senha?"
+
+#: tmp/one/./header.php:71
+msgid "Language"
+msgstr "Idioma"
+
+#: tmp/one/./header.php:84
+msgid "Publish your ad for free"
+msgstr "Publicar Anúncio"
+
+#: tmp/one/./inc.functions.php:19 tmp/one/./inc.functions.php:27
+msgid "Map settings"
+msgstr "Configurações do Mapa"
+
+#: tmp/one/./inc.functions.php:23
+msgid "Brasil theme"
+msgstr "Tema Brasil"
+
+#: tmp/one/./inc.functions.php:41
+msgid "Region saved correctly"
+msgstr "Região salvo corretamente"
+
+#: tmp/one/./inc.functions.php:94
+#, php-format
+msgid "Wait! There are unassigned map areas in the map. <a href=\"%s\">Click here</a> to assign regions to the map."
+msgstr "Esperar! Existem áreas do mapa não atribuídos no mapa. <a href=\"%s\"> Clique aqui </a> para atribuir regiões ao mapa."
+
+#: tmp/one/./inc.search.php:54 tmp/one/./item-edit.php:122 tmp/one/./item-post.php:120
+msgid "Select a category"
+msgstr "Selecionar categoria"
+
+#: tmp/one/./inc.search.php:56
+msgid "Search"
+msgstr "Pesquizar"
+
+#: tmp/one/./item-contact.php:35 tmp/one/./item.php:111
+msgid "Contact seller"
+msgstr "Contatar Vendedor"
+
+#: tmp/one/./item-contact.php:43
+msgid "To (seller)"
+msgstr "Para (Vendedor)"
+
+#: tmp/one/./item-contact.php:44 tmp/one/./item-send-friend.php:42
+msgid "Listing"
+msgstr "Anúncios"
+
+#: tmp/one/./item-contact.php:52 tmp/one/./item.php:235 tmp/one/./user-public-profile.php:124
+msgid "Phone number"
+msgstr "Número de Telefone"
+
+#: tmp/one/./item-contact.php:55
+msgid "Send message"
+msgstr "Enviar mensagem"
+
+#: tmp/one/./item-edit.php:110
+msgid "Update your listing"
+msgstr "Atualize seu perfil"
+
+#: tmp/one/./item-edit.php:119 tmp/one/./item-post.php:117
+msgid "General Information"
+msgstr "Informação geral"
+
+#: tmp/one/./item-edit.php:121 tmp/one/./item-post.php:119 tmp/one/./search.php:279
+msgid "Category"
+msgstr "Categoria"
+
+#: tmp/one/./item-edit.php:129 tmp/one/./item-post.php:128 tmp/one/./search.php:269 tmp/one/./user-alerts.php:50 tmp/one/./user-dashboard.php:50 tmp/one/./user-items.php:53
+msgid "Price"
+msgstr "Preço"
+
+#: tmp/one/./item-edit.php:144 tmp/one/./item-post.php:142
+msgid "Photos"
+msgstr "Fotos"
+
+#: tmp/one/./item-edit.php:153 tmp/one/./item-post.php:148
+msgid "Add new photo"
+msgstr "Adicionar nova foto"
+
+#: tmp/one/./item-edit.php:160 tmp/one/./main.php:86 tmp/one/./search.php:247 tmp/one/./user-public-profile.php:69
+msgid "Location"
+msgstr "Localização"
+
+#: tmp/one/./item-edit.php:162 tmp/one/./item-post.php:158 tmp/one/./item.php:84 tmp/one/./user-profile.php:102
+msgid "Country"
+msgstr "País"
+
+#: tmp/one/./item-edit.php:166 tmp/one/./item-post.php:162 tmp/one/./item.php:85 tmp/one/./user-profile.php:106
+msgid "Region"
+msgstr "Região"
+
+#: tmp/one/./item-edit.php:170 tmp/one/./item-post.php:166 tmp/one/./item.php:86 tmp/one/./search.php:249 tmp/one/./user-profile.php:110
+msgid "City"
+msgstr "Cidade"
+
+#: tmp/one/./item-edit.php:174 tmp/one/./item.php:87 tmp/one/./user-profile.php:114
+msgid "City area"
+msgstr "Área da Cidade"
+
+#: tmp/one/./item-edit.php:178 tmp/one/./item-post.php:174 tmp/one/./item.php:88 tmp/one/./user-profile.php:118 tmp/one/./user-public-profile.php:68
+msgid "Address"
+msgstr "Endereço"
+
+#: tmp/one/./item-edit.php:190 tmp/one/./user-change_email.php:83 tmp/one/./user-change_password.php:57 tmp/one/./user-change_username.php:104 tmp/one/./user-profile.php:129
+msgid "Update"
+msgstr "Atualizar"
+
+#: tmp/one/./item-edit.php:191 tmp/one/./user-profile.php:58
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: tmp/one/./item-post.php:110
+msgid "Publish a listing"
+msgstr "Publicar o Anúncio"
+
+#: tmp/one/./item-post.php:156
+msgid "Listing Location"
+msgstr "Localizar anúncio"
+
+#: tmp/one/./item-post.php:170
+msgid "City Area"
+msgstr "Área da Cidade"
+
+#: tmp/one/./item-post.php:181
+msgid "Seller's information"
+msgstr "Informações do Vendedor"
+
+#: tmp/one/./item-post.php:183 tmp/one/./item.php:218 tmp/one/./item.php:220 tmp/one/./user-profile.php:70 tmp/one/./user-register.php:43
+msgid "Name"
+msgstr "Nome"
+
+#: tmp/one/./item-post.php:194
+msgid "Show e-mail on the listing page"
+msgstr "Mostrar e-mail na página do anúncio"
+
+#: tmp/one/./item-post.php:207
+msgid "Publish"
+msgstr "Publicar"
+
+#: tmp/one/./item-send-friend.php:35
+msgid "Send to a friend"
+msgstr "Enviar para um Amigo"
+
+#: tmp/one/./item-send-friend.php:50
+msgid "Your friend's name"
+msgstr "O nome do seu amigo"
+
+#: tmp/one/./item-send-friend.php:51
+msgid "Your friend's e-mail address"
+msgstr "Endereço de e-mail do seu amigo"
+
+#: tmp/one/./item.php:60
+msgid "Edit item"
+msgstr "Edite item"
+
+#: tmp/one/./item.php:65
+msgid "Mark as"
+msgstr "Marcar como"
+
+#: tmp/one/./item.php:67
+msgid "spam"
+msgstr "spam"
+
+#: tmp/one/./item.php:68
+msgid "misclassified"
+msgstr "Não classificado"
+
+#: tmp/one/./item.php:69
+msgid "duplicated"
+msgstr "Duplicado"
+
+#: tmp/one/./item.php:70
+msgid "expired"
+msgstr "Expirado"
+
+#: tmp/one/./item.php:71
+msgid "offensive"
+msgstr "Ofensivo"
+
+#: tmp/one/./item.php:80
+msgid "Published date"
+msgstr "Data de publicação"
+
+#: tmp/one/./item.php:81
+msgid "Modified date"
+msgstr "Modificar data"
+
+#: tmp/one/./item.php:115
+msgid "Share"
+msgstr "Compartilhar"
+
+#: tmp/one/./item.php:121
+msgid "Useful information"
+msgstr "Informação útil"
+
+#: tmp/one/./item.php:123
+msgid "Avoid scams by acting locally or paying with PayPal"
+msgstr "Para evitar fraudes, agindo localmente ou pagando com PayPal"
+
+#: tmp/one/./item.php:124
+msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgstr "Nunca pague com Western Union, Moneygram ou outros serviços de pagamento anónimos"
+
+#: tmp/one/./item.php:125
+msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
+msgstr "Não faça compras nem vendas fora do seu país. Não aceite cheques de fora do seu país"
+
+#: tmp/one/./item.php:126
+msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgstr "Este site não está envolvida em qualquer transação, e não dirige os pagamentos, envios, garantias de transações, prestar serviços de custódia, ou oferta \"proteção do comprador \" ou \"vendedor de certificação \""
+
+#: tmp/one/./item.php:132
+msgid "Comments"
+msgstr "Comentários"
+
+#: tmp/one/./item.php:139
+msgid "by"
+msgstr "de"
+
+#: tmp/one/./item.php:143
+msgid "Delete your comment"
+msgstr "Deletar comentário"
+
+#: tmp/one/./item.php:143 tmp/one/./user-items.php:58 tmp/one/./user-profile.php:55
+msgid "Delete"
+msgstr "Delete"
+
+#: tmp/one/./item.php:155
+msgid "Leave your comment (spam and offensive messages will be removed)"
+msgstr "Deixe o seu comentário (Spam e comentários ofensivos serão removidos)"
+
+#: tmp/one/./item.php:164
+msgid "Your e-mail"
+msgstr "Seu e-mail"
+
+#: tmp/one/./item.php:166
+msgid "Title"
+msgstr "Titulo"
+
+#: tmp/one/./item.php:167
+msgid "Comment"
+msgstr "Comentário"
+
+#: tmp/one/./item.php:180
+msgid "Image"
+msgstr "Imagem"
+
+#: tmp/one/./item.php:199 tmp/one/./user-public-profile.php:113
+msgid "Contact publisher"
+msgstr "Publicar Contato"
+
+#: tmp/one/./item.php:202
+msgid "The listing is expired. You can't contact the publisher."
+msgstr "Este anúncio expirou. Você não pode entrar em contato com o anunciante."
+
+#: tmp/one/./item.php:206
+msgid "It's your own listing, you can't contact the publisher."
+msgstr "É o seu próprio perfil, você não pode entrar em contato com o anunciante."
+
+#: tmp/one/./item.php:210
+msgid "You must log in or register a new account in order to contact the advertiser"
+msgstr "Você deve iniciar sessão ou registar uma nova conta, a fim de contatar o anunciante"
+
+#: tmp/one/./item.php:226
+msgid "Tel"
+msgstr "Telefone"
+
+#: tmp/one/./item.php:237
+msgid "Attachments"
+msgstr "Anexos"
+
+#: tmp/one/./item.php:254 tmp/one/./user-public-profile.php:136
+msgid "Enter the words above"
+msgstr "Digite as palavras acima"
+
+#: tmp/one/./item.php:256 tmp/one/./user-public-profile.php:138
+msgid "Help"
+msgstr "Voltar"
+
+#: tmp/one/./main.php:38
+msgid "Latest Listings"
+msgstr "Últimos Anúncios"
+
+#: tmp/one/./main.php:40
+msgid "No Latest Listings"
+msgstr "Nenhum anúncio recente"
+
+#: tmp/one/./main.php:70
+msgid "See all offers"
+msgstr "Ver todas as ofertas"
+
+#: tmp/one/./search.php:194
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: tmp/one/./search.php:213
+#, php-format
+msgid "There are no results matching \"%s\""
+msgstr "Não há resultados correspondentes \"%s\""
+
+#: tmp/one/./search.php:242
+msgid "Your search"
+msgstr "Sua pesquisa"
+
+#: tmp/one/./search.php:257
+msgid "Show only"
+msgstr "Mostrar apenas"
+
+#: tmp/one/./search.php:262
+msgid "Show only listings with pictures"
+msgstr "Exibir apenas anúncios com fotos"
+
+#: tmp/one/./search.php:270
+msgid "Min"
+msgstr "Minimo"
+
+#: tmp/one/./search.php:272
+msgid "Max"
+msgstr "Maximo"
+
+#: tmp/one/./search.php:309
+msgid "Apply"
+msgstr "Aplicar"
+
+#: tmp/one/./search.php:327
+msgid "Selected"
+msgstr "Selecionar"
+
+#: tmp/one/./search.php:328
+msgid "Nothing selected, input was"
+msgstr "Nada selecionado, a entrada era"
+
+#: tmp/one/./search_gallery.php:41 tmp/one/./search_list.php:41
+msgid "Sponsored ad"
+msgstr "Anúncio patrocinado"
+
+#: tmp/one/./user-alerts.php:32 tmp/one/./user-change_email.php:62 tmp/one/./user-change_password.php:33 tmp/one/./user-change_username.php:82 tmp/one/./user-dashboard.php:33 tmp/one/./user-items.php:33
+#: tmp/one/./user-profile.php:37
+msgid "User account manager"
+msgstr "Gerenciar conta de usuário"
+
+#: tmp/one/./user-alerts.php:37
+msgid "Your alerts"
+msgstr "Seus Alertas"
+
+#: tmp/one/./user-alerts.php:39
+msgid "You do not have any alerts yet"
+msgstr "Você não tem nenhum alerta ainda"
+
+#: tmp/one/./user-alerts.php:43
+msgid "Alert"
+msgstr "Alerta"
+
+#: tmp/one/./user-alerts.php:43
+msgid "This action can't be undone. Are you sure you want to continue?"
+msgstr "Esta ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+
+#: tmp/one/./user-alerts.php:43
+msgid "Delete this alert"
+msgstr "Excluir este alerta"
+
+#: tmp/one/./user-alerts.php:49 tmp/one/./user-dashboard.php:49 tmp/one/./user-items.php:52
+msgid "Publication date"
+msgstr "Data de publicação"
+
+#: tmp/one/./user-alerts.php:57
+msgid "Listings"
+msgstr "Anúncios"
+
+#: tmp/one/./user-change_email.php:68
+msgid "Change your e-mail"
+msgstr "Mude o seu e-mail"
+
+#: tmp/one/./user-change_email.php:75
+msgid "Current e-mail"
+msgstr "Email atual"
+
+#: tmp/one/./user-change_email.php:79
+msgid "New e-mail"
+msgstr "Novo Email"
+
+#: tmp/one/./user-change_password.php:39
+msgid "Change your password"
+msgstr "Alterar sua senha"
+
+#: tmp/one/./user-change_password.php:45
+msgid "Current password"
+msgstr "Senha atual"
+
+#: tmp/one/./user-change_password.php:49 tmp/one/./user-forgot_password.php:41
+msgid "New password"
+msgstr "Nova senha"
+
+#: tmp/one/./user-change_password.php:53 tmp/one/./user-forgot_password.php:45
+msgid "Repeat new password"
+msgstr "Repita a nova senha"
+
+#: tmp/one/./user-change_username.php:40
+msgid "Username: this field is required"
+msgstr "Nome de usuário: este campo é obrigatório"
+
+#: tmp/one/./user-change_username.php:65
+msgid "The username is available"
+msgstr "O nome de usuário está disponível"
+
+#: tmp/one/./user-change_username.php:67
+msgid "The username is NOT available"
+msgstr "O nome de usuário não está disponível"
+
+#: tmp/one/./user-change_username.php:88
+msgid "Change your username"
+msgstr "Alterar seu nome de usuário"
+
+#: tmp/one/./user-change_username.php:95 tmp/one/./user-profile.php:74
+msgid "Username"
+msgstr "Usuario"
+
+#: tmp/one/./user-change_username.php:99
+msgid "WARNING: Once set, you will not be able to change your username again. Choose wisely."
+msgstr "ATENÇÃO: Uma vez definido, você não será capaz de mudar seu nome de usuário novamente. Escolha sabiamente."
+
+#: tmp/one/./user-dashboard.php:39
+#, php-format
+msgid "Listings from %s"
+msgstr "Anuncios de %s"
+
+#: tmp/one/./user-dashboard.php:41
+msgid "No listings have been added yet"
+msgstr "Nenhum anúncio foi adicionado ainda"
+
+#: tmp/one/./user-dashboard.php:52
+msgid "View listing"
+msgstr "Ver anuncio"
+
+#: tmp/one/./user-dashboard.php:54 tmp/one/./user-items.php:56
+msgid "Edit"
+msgstr "Editar"
+
+#: tmp/one/./user-dashboard.php:57 tmp/one/./user-items.php:61
+msgid "Activate"
+msgstr "Ativar"
+
+#: tmp/one/./user-forgot_password.php:33 tmp/one/./user-recover.php:33
+msgid "Recover your password"
+msgstr "Recuperar sua senha"
+
+#: tmp/one/./user-forgot_password.php:48
+msgid "Change password"
+msgstr "Alterar a senha"
+
+#: tmp/one/./user-items.php:39
+msgid "Your listings"
+msgstr "Os seus anúncios"
+
+#: tmp/one/./user-items.php:39
+msgid "Post a new listing"
+msgstr "Postar novo anuncio"
+
+#: tmp/one/./user-items.php:41
+msgid "You don't have any listings yet"
+msgstr "Você não tem nenhum anuncio ainda"
+
+#: tmp/one/./user-items.php:47
+msgid "Active"
+msgstr "Ativo"
+
+#: tmp/one/./user-items.php:47
+msgid "Inactive"
+msgstr "Inativo"
+
+#: tmp/one/./user-items.php:48
+msgid "Premium"
+msgstr "Premium"
+
+#: tmp/one/./user-items.php:49
+msgid "Spam"
+msgstr "Spam"
+
+#: tmp/one/./user-items.php:58
+msgid "This action can not be undone. Are you sure you want to continue?"
+msgstr "Esta ação não pode ser desfeita. Tem certeza de que deseja continuar?"
+
+#: tmp/one/./user-login.php:33
+msgid "Access to your account"
+msgstr "Acesso à sua conta"
+
+#: tmp/one/./user-profile.php:43
+msgid "Update your profile"
+msgstr "Atualize seu perfil"
+
+#: tmp/one/./user-profile.php:78
+msgid "Modify username"
+msgstr "Modificar nome de usuário"
+
+#: tmp/one/./user-profile.php:86
+msgid "Modify e-mail"
+msgstr "Modificar e-mail"
+
+#: tmp/one/./user-profile.php:86
+msgid "Modify password"
+msgstr "Modificar senha"
+
+#: tmp/one/./user-profile.php:90
+msgid "User type"
+msgstr "Tipo de usuario"
+
+#: tmp/one/./user-profile.php:94
+msgid "Cell phone"
+msgstr "Telefone celular"
+
+#: tmp/one/./user-profile.php:98
+msgid "Phone"
+msgstr "Telefone"
+
+#: tmp/one/./user-profile.php:122 tmp/one/./user-public-profile.php:70
+msgid "Website"
+msgstr "Website"
+
+#: tmp/one/./user-profile.php:130
+msgid "Delete my account"
+msgstr "Excluir minha conta"
+
+#: tmp/one/./user-profile.php:137
+msgid "Delete account"
+msgstr "Excluir conta"
+
+#: tmp/one/./user-profile.php:140
+msgid "All your listings and alerts will be removed, this action can not be undone."
+msgstr "Todos os seus anúncios e alertas serão removidos, esta ação não pode ser desfeita."
+
+#: tmp/one/./user-public-profile.php:59
+#, php-format
+msgid "%s's profile"
+msgstr "%s's perfil"
+
+#: tmp/one/./user-public-profile.php:65
+msgid "Profile"
+msgstr "Perfil"
+
+#: tmp/one/./user-public-profile.php:67
+msgid "Full name"
+msgstr "Nome completo"
+
+#: tmp/one/./user-public-profile.php:71
+msgid "User Description"
+msgstr "Usuário Descrição"
+
+#: tmp/one/./user-public-profile.php:75
+msgid "Latest listings"
+msgstr "Últimos anúncios"
+
+#: tmp/one/./user-recover.php:40
+msgid "Send me a new password"
+msgstr "Envie-me uma nova senha"
+
+#: tmp/one/./user-register.php:36
+msgid "Register an account for free"
+msgstr "Registrar uma conta grátis"
+
+#: tmp/one/./user-register.php:45
+msgid "Re-type password"
+msgstr "Digite novamente a senha"
+
+#: tmp/one/./user-register.php:47
+msgid "Passwords don't match"
+msgstr "As senhas não correspondem"
+
+#: tmp/one/./user-register.php:52
+msgid "Create"
+msgstr "Criar"
